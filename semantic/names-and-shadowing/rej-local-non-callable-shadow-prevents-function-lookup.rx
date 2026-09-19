@@ -1,3 +1,9 @@
 use rx::core::*;
 
-fn f() -> i32 { 1 } fn main() { let f = 2; printlnInt(f()); }
+fn f() -> i32 {
+    1
+}
+fn main() {
+    let f = 2;
+    printlnInt(f());
+}

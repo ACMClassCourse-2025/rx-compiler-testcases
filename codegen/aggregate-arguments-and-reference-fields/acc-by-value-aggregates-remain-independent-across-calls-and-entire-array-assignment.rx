@@ -1,16 +1,42 @@
 use rx::core::*;
 
 #[derive(Clone, Copy)]
-struct Packet { data: [i32; 8], flag: bool }
+struct Packet {
+    data: [i32; 8],
+    flag: bool,
+}
 #[derive(Clone, Copy)]
-struct View<'a> { data: &'a [i32; 8], tag: i32 }
-fn edit(mut p: Packet, tail: i32) -> Packet { p.data[7] += tail; p.flag = !p.flag; p }
-fn make(x: i32) -> Packet { Packet { data: [x; 8], flag: true } }
+struct View<'a> {
+    data: &'a [i32; 8],
+    tag: i32,
+}
+fn edit(mut p: Packet, tail: i32) -> Packet {
+    p.data[7] += tail;
+    p.flag = !p.flag;
+    p
+}
+fn make(x: i32) -> Packet {
+    Packet {
+        data: [x; 8],
+        flag: true,
+    }
+}
 fn main() {
-    let a = make(getInt()); let b = edit(a, 4);
-    let v = View { data: &a.data, tag: 2 }; let copy = v;
-    printlnInt(v.data[7]); printlnInt(copy.data[7]); printlnInt(b.data[7]);
-    printlnInt(a.flag as i32); printlnInt(b.flag as i32);
-    let mut arrays = [[1, 2], [3, 4]]; let saved = arrays; arrays = [[5, 6], [7, 8]];
-    printlnInt(saved[1][1]); printlnInt(arrays[1][1]);
+    let a = make(getInt());
+    let b = edit(a, 4);
+    let v = View {
+        data: &a.data,
+        tag: 2,
+    };
+    let copy = v;
+    printlnInt(v.data[7]);
+    printlnInt(copy.data[7]);
+    printlnInt(b.data[7]);
+    printlnInt(a.flag as i32);
+    printlnInt(b.flag as i32);
+    let mut arrays = [[1, 2], [3, 4]];
+    let saved = arrays;
+    arrays = [[5, 6], [7, 8]];
+    printlnInt(saved[1][1]);
+    printlnInt(arrays[1][1]);
 }

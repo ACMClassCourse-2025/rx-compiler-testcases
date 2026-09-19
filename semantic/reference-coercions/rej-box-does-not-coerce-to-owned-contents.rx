@@ -1,5 +1,6 @@
 use rx::core::*;
 
 fn main() {
-    let b = Box::<i32>::new(1); let x: i32 = b;
+    let b = Box::<i32>::new(1);
+    let x: i32 = b;
 }

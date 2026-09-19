@@ -1,5 +1,8 @@
 use rx::core::*;
 
 fn main() {
-    let a = getInt() as i32; let b = getInt(); printlnInt((a << b) as i32); printlnInt((a >> b) as i32);
+    let a = getInt() as i32;
+    let b = getInt();
+    printlnInt((a << b) as i32);
+    printlnInt((a >> b) as i32);
 }

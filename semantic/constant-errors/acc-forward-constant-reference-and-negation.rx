@@ -1,3 +1,7 @@
 use rx::core::*;
 
-const B: i32 = -A; const A: i32 = 3; fn main() { printlnInt(B); }
+const B: i32 = -A;
+const A: i32 = 3;
+fn main() {
+    printlnInt(B);
+}

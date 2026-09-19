@@ -1,3 +1,4 @@
 use rx::core::*;
 
-fn f(x: Self) {} fn main() {}
+fn f(x: Self) {}
+fn main() {}

@@ -1,5 +1,8 @@
 use rx::core::*;
 
 fn main() {
-    { 1 } printlnInt(2);
+    {
+        1
+    }
+    printlnInt(2);
 }

@@ -1,5 +1,7 @@
 use rx::core::*;
 
 fn main() {
-    loop { while continue {} }
+    loop {
+        while continue {}
+    }
 }

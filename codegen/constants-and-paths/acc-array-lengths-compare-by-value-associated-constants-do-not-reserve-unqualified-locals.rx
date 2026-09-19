@@ -2,11 +2,20 @@ use rx::core::*;
 
 const COUNT: usize = Config::N;
 const VALUE: i32 = LATER;
-struct Config { x: i32 }
-impl Config { const N: usize = (3); const NEG: i32 = -VALUE; }
+struct Config {
+    x: i32,
+}
+impl Config {
+    const N: usize = (3);
+    const NEG: i32 = -VALUE;
+}
 const LATER: i32 = 7;
 fn main() {
     let mut a: [i32; COUNT] = [VALUE; Config::N];
-    a[1] = Config::NEG; printlnInt(a[0]); printlnInt(a[1]); printlnInt(a.len() as i32);
-    let N = 9; printlnInt(N);
+    a[1] = Config::NEG;
+    printlnInt(a[0]);
+    printlnInt(a[1]);
+    printlnInt(a.len() as i32);
+    let N = 9;
+    printlnInt(N);
 }

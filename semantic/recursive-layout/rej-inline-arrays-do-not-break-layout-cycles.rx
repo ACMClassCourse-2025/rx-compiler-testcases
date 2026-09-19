@@ -1,3 +1,6 @@
 use rx::core::*;
 
-struct Bad { next: [Bad; 1] } fn main() {}
+struct Bad {
+    next: [Bad; 1],
+}
+fn main() {}

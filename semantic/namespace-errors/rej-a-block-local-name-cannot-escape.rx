@@ -1,5 +1,8 @@
 use rx::core::*;
 
 fn main() {
-    { let x = 1; } printlnInt(x);
+    {
+        let x = 1;
+    }
+    printlnInt(x);
 }

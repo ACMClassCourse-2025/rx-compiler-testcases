@@ -1,5 +1,19 @@
 use rx::core::*;
 
 fn main() {
-    let a = 13; let b = 3; printlnInt(&a + &b); printlnInt(a - &b); printlnInt(&a * b); printlnInt(&a / &b); printlnInt(&a % &b); printlnInt(&a & &b); printlnInt(&a | &b); printlnInt(&a ^ &b); printlnInt(-&a); printlnInt(!&a); printlnInt(&a << &b); printlnInt(&a >> &b); printlnInt((&true ^ &false) as i32);
+    let a = 13;
+    let b = 3;
+    printlnInt(&a + &b);
+    printlnInt(a - &b);
+    printlnInt(&a * b);
+    printlnInt(&a / &b);
+    printlnInt(&a % &b);
+    printlnInt(&a & &b);
+    printlnInt(&a | &b);
+    printlnInt(&a ^ &b);
+    printlnInt(-&a);
+    printlnInt(!&a);
+    printlnInt(&a << &b);
+    printlnInt(&a >> &b);
+    printlnInt((&true ^ &false) as i32);
 }

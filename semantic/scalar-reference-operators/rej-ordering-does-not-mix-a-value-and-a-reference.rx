@@ -1,5 +1,6 @@
 use rx::core::*;
 
 fn main() {
-    let a = 1; let x = a < &a;
+    let a = 1;
+    let x = a < &a;
 }

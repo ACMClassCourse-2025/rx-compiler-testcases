@@ -1,7 +1,8 @@
 use rx::core::*;
 
 fn main() {
-    let a = getInt() as isize; let b = getInt() as isize;
+    let a = getInt() as isize;
+    let b = getInt() as isize;
     printlnInt((a + b) as i32);
     printlnInt((a - b) as i32);
     printlnInt((a * b) as i32);

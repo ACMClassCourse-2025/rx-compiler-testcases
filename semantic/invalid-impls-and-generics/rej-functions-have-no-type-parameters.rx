@@ -1,3 +1,6 @@
 use rx::core::*;
 
-fn f() {} fn main() { f::<i32>(); }
+fn f() {}
+fn main() {
+    f::<i32>();
+}

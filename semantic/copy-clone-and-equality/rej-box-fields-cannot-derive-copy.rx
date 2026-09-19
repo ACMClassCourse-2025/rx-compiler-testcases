@@ -1,3 +1,7 @@
 use rx::core::*;
 
-#[derive(Clone, Copy)] struct S { x: Box<i32> } fn main() {}
+#[derive(Clone, Copy)]
+struct S {
+    x: Box<i32>,
+}
+fn main() {}
