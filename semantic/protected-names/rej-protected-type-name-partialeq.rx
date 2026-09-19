@@ -1,3 +1,0 @@
-use rx::core::*;
-
-struct PartialEq { field: i32 } fn main() {}

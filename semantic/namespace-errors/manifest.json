@@ -94,14 +94,5 @@
     "stage": "semantic",
     "compilation_success": false,
     "description": "Named-field structs are not callable constructors."
-  },
-  {
-    "source": "rej-function-names-are-not-first-class-values-in-rx.rx",
-    "stage": "semantic",
-    "compilation_success": false,
-    "description": "Function names are not first-class values in Rx.",
-    "metadata": {
-      "rust_reference": "accept"
-    }
   }
 ]

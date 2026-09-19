@@ -2,7 +2,7 @@
 
 Compile each `.rx` independently and compare acceptance/rejection with its
 bundle manifest. No AST serialization or diagnostic wording is required.
-There are 40 bundles: 55 accepted and 171 rejected programs.
+There are 40 bundles: 55 accepted and 153 rejected programs.
 
 Every negative source passes the supplied ANTLR grammar; failures target
 required name, type, mutability, capability, constant, layout, receiver, or

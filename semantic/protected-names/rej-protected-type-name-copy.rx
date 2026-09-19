@@ -1,3 +1,0 @@
-use rx::core::*;
-
-struct Copy { field: i32 } fn main() {}

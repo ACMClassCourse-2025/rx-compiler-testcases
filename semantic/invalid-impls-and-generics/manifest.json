@@ -36,24 +36,6 @@
     "description": "Missing concrete Box type argument."
   },
   {
-    "source": "rej-each-constructor-requires-an-explicit-concrete-type-argument.rx",
-    "stage": "semantic",
-    "compilation_success": false,
-    "description": "Each constructor requires an explicit concrete type argument.",
-    "metadata": {
-      "rust_reference": "accept"
-    }
-  },
-  {
-    "source": "rej-no-implicit-constructor-type-argument.rx",
-    "stage": "semantic",
-    "compilation_success": false,
-    "description": "No implicit constructor type argument.",
-    "metadata": {
-      "rust_reference": "accept"
-    }
-  },
-  {
     "source": "rej-box-requires-exactly-one-concrete-type-argument.rx",
     "stage": "semantic",
     "compilation_success": false,

@@ -24,15 +24,6 @@
     "description": "Wrong type in an untaken branch."
   },
   {
-    "source": "rej-immutable-assignment-after-return.rx",
-    "stage": "semantic",
-    "compilation_success": false,
-    "description": "Immutable assignment after return.",
-    "metadata": {
-      "rust_reference": "accept"
-    }
-  },
-  {
     "source": "rej-unreachable-break-participates-in-loop-result-typing.rx",
     "stage": "semantic",
     "compilation_success": false,

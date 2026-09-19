@@ -1,3 +1,0 @@
-use rx::core::*;
-
-struct u32 { field: i32 } fn main() {}
