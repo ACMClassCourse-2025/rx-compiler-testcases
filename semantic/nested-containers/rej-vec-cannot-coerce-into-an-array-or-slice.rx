@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn main() {
     let v = Vec::<i32>::new(); let p: &[i32; 1] = &v;
 }

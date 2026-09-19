@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn main() {
     printlnInt(((-1i32 as i32) as i32) as i32);
     printlnInt(((-1i32 as i32) as u32) as i32);

@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn main() {
     let seed = getInt();
     let mut frame = [0i32; 4096];

@@ -1,3 +1,5 @@
+use rx::core::*;
+
 struct S { x: i32 }
 impl S { fn add(&mut self, n: i32) -> i32 { self.x += n; self.x } }
 fn mark(n: i32) -> i32 { printlnInt(n); n }

@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn main() {
     let n = getInt() as usize; let mut prime = Vec::<bool>::new(); let mut i = 0usize;
     while i <= n { prime.push(true); i += 1usize; }

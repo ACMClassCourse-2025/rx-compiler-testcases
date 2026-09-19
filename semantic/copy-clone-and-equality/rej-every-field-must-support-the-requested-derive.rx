@@ -1,1 +1,3 @@
+use rx::core::*;
+
 struct Inner { x: i32 } #[derive(PartialEq)] struct Outer { x: Inner } fn main() {}

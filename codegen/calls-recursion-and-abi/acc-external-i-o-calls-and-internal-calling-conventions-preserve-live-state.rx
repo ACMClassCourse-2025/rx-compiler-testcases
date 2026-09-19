@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn many(a: i32,b: i32,c: i32,d: i32,e: i32,f: i32,g: i32,h: i32,i: i32,j: i32,k: i32,l: i32) -> i32 {
     a+2*b+3*c+4*d+5*e+6*f+7*g+8*h+9*i+10*j+11*k+12*l
 }

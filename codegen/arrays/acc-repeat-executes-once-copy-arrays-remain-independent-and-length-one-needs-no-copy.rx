@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn element() -> i32 { printlnInt(6); 4 }
 fn edit(mut a: [i32; 3]) -> [i32; 3] { a[1] = 20; a }
 fn main() {

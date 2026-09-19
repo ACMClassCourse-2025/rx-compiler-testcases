@@ -1,3 +1,5 @@
+use rx::core::*;
+
 const COUNT: usize = Config::N;
 const VALUE: i32 = LATER;
 struct Config { x: i32 }

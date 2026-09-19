@@ -1,3 +1,5 @@
+use rx::core::*;
+
 #[derive(Clone, Copy)]
 struct State { x: i32, y: i32, z: i32, flag: bool }
 fn update(mut s: State, k: i32, bias: i32) -> State {

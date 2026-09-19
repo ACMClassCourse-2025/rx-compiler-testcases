@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn f(x: i32) -> i32 {
     let v = if x < 0 { return 90; } else if x == 0 { 7 } else { { x + 1 } };
     { v * 2 }

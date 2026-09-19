@@ -1,3 +1,5 @@
+use rx::core::*;
+
 #[derive(Clone, PartialEq, Eq)]
 struct Node { value: i32, children: Vec<Box<Node>> }
 fn build(depth: i32, seed: i32) -> Node {

@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn step_0(mut x: u32, key: u32) -> u32 {
     if (x & 1u32) == 0u32 { x = x*1u32 + key; } else { x = (x >> 1u32) ^ (x << 31u32) ^ key; }
     if (x & 2u32) == 0u32 { x = x*35u32 + key; } else { x = (x >> 2u32) ^ (x << 30u32) ^ key; }

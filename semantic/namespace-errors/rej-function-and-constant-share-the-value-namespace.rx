@@ -1,1 +1,3 @@
+use rx::core::*;
+
 const f: i32 = 1; fn f() {} fn main() {}

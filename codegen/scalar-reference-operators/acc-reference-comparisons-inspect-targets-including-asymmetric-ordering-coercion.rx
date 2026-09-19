@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn main() {
     let a = 4; let mut b = 5; printlnInt((&a < &mut b) as i32); printlnInt((&&a < &&b) as i32); let mut c = 3; printlnInt((&mut b > &mut c) as i32); let d = 4; printlnInt((&a == &d) as i32);
 }

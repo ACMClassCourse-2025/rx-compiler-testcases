@@ -1,1 +1,3 @@
+use rx::core::*;
+
 struct isize { field: i32 } fn main() {}

@@ -1,1 +1,3 @@
+use rx::core::*;
+
 struct Clone { field: i32 } fn main() {}

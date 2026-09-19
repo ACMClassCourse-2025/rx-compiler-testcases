@@ -1,3 +1,5 @@
+use rx::core::*;
+
 #[derive(Clone, Copy)]
 struct Instruction { op: i32, arg: i32 }
 struct Machine { code: Vec<Instruction>, stack: Vec<i32>, pc: usize }

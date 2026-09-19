@@ -1,3 +1,5 @@
+use rx::core::*;
+
 struct Item { value: Box<i32> }
 fn main() {
     let mut v = Vec::<Item>::new();

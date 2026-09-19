@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn mix(mut x: u32, key: u32) -> u32 {
     x ^= x >> 16u32; x *= 2146121005u32; x ^= x >> 15u32;
     x *= 2221713035u32; x ^= x >> 16u32; x + key

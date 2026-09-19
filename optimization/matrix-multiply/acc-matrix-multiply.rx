@@ -1,3 +1,5 @@
+use rx::core::*;
+
 fn next(state: &mut u32) -> u32 {
     *state ^= *state << 13u32; *state ^= *state >> 17u32; *state ^= *state << 5u32; *state
 }
