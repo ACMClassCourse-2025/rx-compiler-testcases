@@ -1,6 +1,6 @@
 [
   {
-    "source": "accept/block_comment-5fd112cac3.rs",
+    "source": "accept/block_comment-5fd112cac3.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -46,7 +46,7 @@
     }
   },
   {
-    "source": "accept/frontmatter-af000ae460.rs",
+    "source": "accept/frontmatter-af000ae460.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -122,7 +122,7 @@
     }
   },
   {
-    "source": "accept/guarded_str_prefix_edition_2021-5d75672c58.rs",
+    "source": "accept/guarded_str_prefix_edition_2021-5d75672c58.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -156,7 +156,7 @@
     }
   },
   {
-    "source": "accept/hello-33710ec532.rs",
+    "source": "accept/hello-33710ec532.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -190,7 +190,7 @@
     }
   },
   {
-    "source": "accept/ident-a99ba7d1fe.rs",
+    "source": "accept/ident-a99ba7d1fe.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -260,7 +260,7 @@
     }
   },
   {
-    "source": "accept/keywords-6260d3e809.rs",
+    "source": "accept/keywords-6260d3e809.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -538,7 +538,7 @@
     }
   },
   {
-    "source": "accept/lifetimes-60174f9680.rs",
+    "source": "accept/lifetimes-60174f9680.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -592,7 +592,7 @@
     }
   },
   {
-    "source": "accept/nested-block-comments-03bb4c3dac.rs",
+    "source": "accept/nested-block-comments-03bb4c3dac.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -612,7 +612,7 @@
     }
   },
   {
-    "source": "accept/nested-block-comments-1d7dc951c9.rs",
+    "source": "accept/nested-block-comments-1d7dc951c9.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -632,7 +632,7 @@
     }
   },
   {
-    "source": "accept/nested-block-comments-70ea462484.rs",
+    "source": "accept/nested-block-comments-70ea462484.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -652,7 +652,7 @@
     }
   },
   {
-    "source": "accept/nested-block-comments-df896b4529.rs",
+    "source": "accept/nested-block-comments-df896b4529.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -672,7 +672,7 @@
     }
   },
   {
-    "source": "accept/nested-block-comments-e292bc01d0.rs",
+    "source": "accept/nested-block-comments-e292bc01d0.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -692,7 +692,7 @@
     }
   },
   {
-    "source": "accept/numbers-29b079fcfd.rs",
+    "source": "accept/numbers-29b079fcfd.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -726,7 +726,7 @@
     }
   },
   {
-    "source": "accept/numbers-57920fe182.rs",
+    "source": "accept/numbers-57920fe182.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -776,7 +776,7 @@
     }
   },
   {
-    "source": "accept/numbers-57c8fa4818.rs",
+    "source": "accept/numbers-57c8fa4818.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -822,7 +822,7 @@
     }
   },
   {
-    "source": "accept/numbers-61a34dcfaa.rs",
+    "source": "accept/numbers-61a34dcfaa.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -892,7 +892,7 @@
     }
   },
   {
-    "source": "accept/numbers-ad7d779a0c.rs",
+    "source": "accept/numbers-ad7d779a0c.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -942,7 +942,7 @@
     }
   },
   {
-    "source": "accept/single_line_comments-66a4addfa5.rs",
+    "source": "accept/single_line_comments-66a4addfa5.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -972,7 +972,7 @@
     }
   },
   {
-    "source": "accept/single_line_comments-a3a584b594.rs",
+    "source": "accept/single_line_comments-a3a584b594.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1006,7 +1006,7 @@
     }
   },
   {
-    "source": "accept/single_line_comments-ffed16fa5e.rs",
+    "source": "accept/single_line_comments-ffed16fa5e.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1048,7 +1048,7 @@
     }
   },
   {
-    "source": "accept/symbols-73d3ed84b0.rs",
+    "source": "accept/symbols-73d3ed84b0.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1150,7 +1150,7 @@
     }
   },
   {
-    "source": "accept/symbols-7d923bf51c.rs",
+    "source": "accept/symbols-7d923bf51c.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1364,7 +1364,7 @@
     }
   },
   {
-    "source": "accept/symbols-fa1802a888.rs",
+    "source": "accept/symbols-fa1802a888.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1398,7 +1398,7 @@
     }
   },
   {
-    "source": "accept/tests-6e0c29af29.rs",
+    "source": "accept/tests-6e0c29af29.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1423,7 +1423,7 @@
     }
   },
   {
-    "source": "accept/tests-8eddb3e8f5.rs",
+    "source": "accept/tests-8eddb3e8f5.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1472,7 +1472,7 @@
     }
   },
   {
-    "source": "accept/tests-cdd59dd8ce.rs",
+    "source": "accept/tests-cdd59dd8ce.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1497,7 +1497,7 @@
     }
   },
   {
-    "source": "accept/tests-da9c815cf2.rs",
+    "source": "accept/tests-da9c815cf2.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1594,7 +1594,7 @@
     }
   },
   {
-    "source": "accept/tests-dc9e82fdde.rs",
+    "source": "accept/tests-dc9e82fdde.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1667,7 +1667,7 @@
     }
   },
   {
-    "source": "accept/tests-f4813f2585.rs",
+    "source": "accept/tests-f4813f2585.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1708,7 +1708,7 @@
     }
   },
   {
-    "source": "accept/whitespace-86418a4e69.rs",
+    "source": "accept/whitespace-86418a4e69.rx",
     "stage": "lex",
     "compilation_success": true,
     "metadata": {
@@ -1778,7 +1778,7 @@
     }
   },
   {
-    "source": "reject/empty_int-95a1bae8bf.rs",
+    "source": "reject/empty_int-95a1bae8bf.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1798,7 +1798,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-3dac1bd316.rs",
+    "source": "reject/lex-bad-binary-literal-3dac1bd316.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1818,7 +1818,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-5329952680.rs",
+    "source": "reject/lex-bad-binary-literal-5329952680.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1838,7 +1838,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-6938a244b4.rs",
+    "source": "reject/lex-bad-binary-literal-6938a244b4.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1858,7 +1858,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-69786d9aa0.rs",
+    "source": "reject/lex-bad-binary-literal-69786d9aa0.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1878,7 +1878,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-962d4c812c.rs",
+    "source": "reject/lex-bad-binary-literal-962d4c812c.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1898,7 +1898,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-a80941cff2.rs",
+    "source": "reject/lex-bad-binary-literal-a80941cff2.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1918,7 +1918,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-b2a3c4225c.rs",
+    "source": "reject/lex-bad-binary-literal-b2a3c4225c.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1938,7 +1938,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-b35bfe3e94.rs",
+    "source": "reject/lex-bad-binary-literal-b35bfe3e94.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1958,7 +1958,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-e12771e162.rs",
+    "source": "reject/lex-bad-binary-literal-e12771e162.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1978,7 +1978,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-octal-literal-0730c79b95.rs",
+    "source": "reject/lex-bad-octal-literal-0730c79b95.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -1998,7 +1998,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-octal-literal-b2e74a7290.rs",
+    "source": "reject/lex-bad-octal-literal-b2e74a7290.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2018,7 +2018,7 @@
     }
   },
   {
-    "source": "reject/numbers-0333fae972.rs",
+    "source": "reject/numbers-0333fae972.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2038,7 +2038,7 @@
     }
   },
   {
-    "source": "reject/numbers-98101fae27.rs",
+    "source": "reject/numbers-98101fae27.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2058,7 +2058,7 @@
     }
   },
   {
-    "source": "reject/numbers-e7a13252b9.rs",
+    "source": "reject/numbers-e7a13252b9.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2078,7 +2078,7 @@
     }
   },
   {
-    "source": "reject/numbers-f17b2cc943.rs",
+    "source": "reject/numbers-f17b2cc943.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2098,7 +2098,7 @@
     }
   },
   {
-    "source": "reject/tests-4c77ecf383.rs",
+    "source": "reject/tests-4c77ecf383.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2117,7 +2117,7 @@
     }
   },
   {
-    "source": "reject/unclosed_block_comment_at_eof-c25875b858.rs",
+    "source": "reject/unclosed_block_comment_at_eof-c25875b858.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2137,7 +2137,7 @@
     }
   },
   {
-    "source": "reject/unclosed_block_comment_with_content-e0a0a3fced.rs",
+    "source": "reject/unclosed_block_comment_with_content-e0a0a3fced.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2157,7 +2157,7 @@
     }
   },
   {
-    "source": "reject/unclosed_nested_block_comment_entirely-75dc81f4ab.rs",
+    "source": "reject/unclosed_nested_block_comment_entirely-75dc81f4ab.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2177,7 +2177,7 @@
     }
   },
   {
-    "source": "reject/unclosed_nested_block_comment_partially-750a4f6bc1.rs",
+    "source": "reject/unclosed_nested_block_comment_partially-750a4f6bc1.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2197,7 +2197,7 @@
     }
   },
   {
-    "source": "reject/unterminated-comment-dca0e74fae.rs",
+    "source": "reject/unterminated-comment-dca0e74fae.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {
@@ -2217,7 +2217,7 @@
     }
   },
   {
-    "source": "reject/unterminated-nested-comment-a7fd7b14f4.rs",
+    "source": "reject/unterminated-nested-comment-a7fd7b14f4.rx",
     "stage": "lex",
     "compilation_success": false,
     "metadata": {

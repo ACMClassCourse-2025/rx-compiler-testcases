@@ -1,6 +1,6 @@
 [
   {
-    "source": "accept/0000_empty-d034382161.rs",
+    "source": "accept/0000_empty-d034382161.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -31,7 +31,7 @@
     }
   },
   {
-    "source": "accept/0001_struct_item-161ad2b053.rs",
+    "source": "accept/0001_struct_item-161ad2b053.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -342,7 +342,7 @@
     }
   },
   {
-    "source": "accept/0001_struct_item-4fbe932e92.rs",
+    "source": "accept/0001_struct_item-4fbe932e92.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -483,7 +483,7 @@
     }
   },
   {
-    "source": "accept/0002_struct_item_field-f793d9d0d8.rs",
+    "source": "accept/0002_struct_item_field-f793d9d0d8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -504,7 +504,7 @@
     }
   },
   {
-    "source": "accept/0005_fn_item-7c27348778.rs",
+    "source": "accept/0005_fn_item-7c27348778.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -525,7 +525,7 @@
     }
   },
   {
-    "source": "accept/0008_mod_item-4c0301505b.rs",
+    "source": "accept/0008_mod_item-4c0301505b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -546,7 +546,7 @@
     }
   },
   {
-    "source": "accept/0008_mod_item-cfa7bda9e0.rs",
+    "source": "accept/0008_mod_item-cfa7bda9e0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -577,7 +577,7 @@
     }
   },
   {
-    "source": "accept/0009_use_item-aa5a8624a5.rs",
+    "source": "accept/0009_use_item-aa5a8624a5.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -598,7 +598,7 @@
     }
   },
   {
-    "source": "accept/0010_use_path_segments-7c0a39b246.rs",
+    "source": "accept/0010_use_path_segments-7c0a39b246.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -619,7 +619,7 @@
     }
   },
   {
-    "source": "accept/0011_outer_attribute-6c1dfc53b9.rs",
+    "source": "accept/0011_outer_attribute-6c1dfc53b9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1760,7 +1760,7 @@
     }
   },
   {
-    "source": "accept/0012_visibility-304a86940f.rs",
+    "source": "accept/0012_visibility-304a86940f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1791,7 +1791,7 @@
     }
   },
   {
-    "source": "accept/0013_use_path_self_super-2f59db8224.rs",
+    "source": "accept/0013_use_path_self_super-2f59db8224.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1812,7 +1812,7 @@
     }
   },
   {
-    "source": "accept/0014_use_tree-664d701097.rs",
+    "source": "accept/0014_use_tree-664d701097.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1833,7 +1833,7 @@
     }
   },
   {
-    "source": "accept/0015_use_tree-7e3d7c61ed.rs",
+    "source": "accept/0015_use_tree-7e3d7c61ed.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1854,7 +1854,7 @@
     }
   },
   {
-    "source": "accept/0016_struct_flavors-74e671957d.rs",
+    "source": "accept/0016_struct_flavors-74e671957d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1875,7 +1875,7 @@
     }
   },
   {
-    "source": "accept/0016_struct_flavors-a1dda101d0.rs",
+    "source": "accept/0016_struct_flavors-a1dda101d0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "source": "accept/0016_struct_flavors-a7b85b08bd.rs",
+    "source": "accept/0016_struct_flavors-a7b85b08bd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "source": "accept/0016_struct_flavors-d997d05dd6.rs",
+    "source": "accept/0016_struct_flavors-d997d05dd6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "source": "accept/0019_enums-d8b5b5b04c.rs",
+    "source": "accept/0019_enums-d8b5b5b04c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -2189,7 +2189,7 @@
     }
   },
   {
-    "source": "accept/0020_type_param_bounds-557de07e5a.rs",
+    "source": "accept/0020_type_param_bounds-557de07e5a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -2210,7 +2210,7 @@
     }
   },
   {
-    "source": "accept/0020_type_param_bounds-d2c4be92de.rs",
+    "source": "accept/0020_type_param_bounds-d2c4be92de.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -2331,7 +2331,7 @@
     }
   },
   {
-    "source": "accept/0023_static_items-dc67bc99b7.rs",
+    "source": "accept/0023_static_items-dc67bc99b7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -2802,7 +2802,7 @@
     }
   },
   {
-    "source": "accept/0023_static_items-f58bcc4b45.rs",
+    "source": "accept/0023_static_items-f58bcc4b45.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3183,7 +3183,7 @@
     }
   },
   {
-    "source": "accept/0028_operator_binding_power-683e093943.rs",
+    "source": "accept/0028_operator_binding_power-683e093943.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3204,7 +3204,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-1036712138.rs",
+    "source": "accept/0029_range_forms-1036712138.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3235,7 +3235,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-1e9c68a0a1.rs",
+    "source": "accept/0029_range_forms-1e9c68a0a1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3276,7 +3276,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-8e34ed91f4.rs",
+    "source": "accept/0029_range_forms-8e34ed91f4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3307,7 +3307,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-b1b313e264.rs",
+    "source": "accept/0029_range_forms-b1b313e264.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3458,7 +3458,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-c5b243e6ac.rs",
+    "source": "accept/0029_range_forms-c5b243e6ac.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3489,7 +3489,7 @@
     }
   },
   {
-    "source": "accept/0029_range_forms-e3277a2f56.rs",
+    "source": "accept/0029_range_forms-e3277a2f56.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3740,7 +3740,7 @@
     }
   },
   {
-    "source": "accept/0031_extern-266cf263bb.rs",
+    "source": "accept/0031_extern-266cf263bb.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3801,7 +3801,7 @@
     }
   },
   {
-    "source": "accept/0031_extern-4a1837b41f.rs",
+    "source": "accept/0031_extern-4a1837b41f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3872,7 +3872,7 @@
     }
   },
   {
-    "source": "accept/0032_where_for-39680876cd.rs",
+    "source": "accept/0032_where_for-39680876cd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3893,7 +3893,7 @@
     }
   },
   {
-    "source": "accept/0032_where_for-6b4fbe9600.rs",
+    "source": "accept/0032_where_for-6b4fbe9600.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3914,7 +3914,7 @@
     }
   },
   {
-    "source": "accept/0032_where_for-ad563c7b58.rs",
+    "source": "accept/0032_where_for-ad563c7b58.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3945,7 +3945,7 @@
     }
   },
   {
-    "source": "accept/0032_where_for-ccf6a16c19.rs",
+    "source": "accept/0032_where_for-ccf6a16c19.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3966,7 +3966,7 @@
     }
   },
   {
-    "source": "accept/0032_where_for-ffd3455826.rs",
+    "source": "accept/0032_where_for-ffd3455826.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -3987,7 +3987,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-30b55c95cd.rs",
+    "source": "accept/0033_label_break-30b55c95cd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4008,7 +4008,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-344c53e3ba.rs",
+    "source": "accept/0033_label_break-344c53e3ba.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4029,7 +4029,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-37ba9892b0.rs",
+    "source": "accept/0033_label_break-37ba9892b0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4060,7 +4060,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-44d5a6b7f3.rs",
+    "source": "accept/0033_label_break-44d5a6b7f3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4091,7 +4091,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-5950b3a7b2.rs",
+    "source": "accept/0033_label_break-5950b3a7b2.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4132,7 +4132,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-d2c95ffe8d.rs",
+    "source": "accept/0033_label_break-d2c95ffe8d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4153,7 +4153,7 @@
     }
   },
   {
-    "source": "accept/0033_label_break-efa1a66b83.rs",
+    "source": "accept/0033_label_break-efa1a66b83.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4174,7 +4174,7 @@
     }
   },
   {
-    "source": "accept/0034_crate_path_in_call-59f98ec7d4.rs",
+    "source": "accept/0034_crate_path_in_call-59f98ec7d4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4195,7 +4195,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-064c8d5d18.rs",
+    "source": "accept/0035_weird_exprs-064c8d5d18.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4216,7 +4216,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-08db5c2688.rs",
+    "source": "accept/0035_weird_exprs-08db5c2688.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4237,7 +4237,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-0f8c99e6e0.rs",
+    "source": "accept/0035_weird_exprs-0f8c99e6e0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4258,7 +4258,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-110f93e5da.rs",
+    "source": "accept/0035_weird_exprs-110f93e5da.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4279,7 +4279,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-14f269d0e8.rs",
+    "source": "accept/0035_weird_exprs-14f269d0e8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4300,7 +4300,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-184fd74e80.rs",
+    "source": "accept/0035_weird_exprs-184fd74e80.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4321,7 +4321,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-280720b918.rs",
+    "source": "accept/0035_weird_exprs-280720b918.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4342,7 +4342,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-2f8cc16173.rs",
+    "source": "accept/0035_weird_exprs-2f8cc16173.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4363,7 +4363,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-2fa3d1068f.rs",
+    "source": "accept/0035_weird_exprs-2fa3d1068f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4384,7 +4384,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-312b5dfd2b.rs",
+    "source": "accept/0035_weird_exprs-312b5dfd2b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4405,7 +4405,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-348cf5f000.rs",
+    "source": "accept/0035_weird_exprs-348cf5f000.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4426,7 +4426,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-36775ab8a7.rs",
+    "source": "accept/0035_weird_exprs-36775ab8a7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4447,7 +4447,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-3e0cec45d6.rs",
+    "source": "accept/0035_weird_exprs-3e0cec45d6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4468,7 +4468,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-44643b9b93.rs",
+    "source": "accept/0035_weird_exprs-44643b9b93.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4499,7 +4499,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-4a680eac1a.rs",
+    "source": "accept/0035_weird_exprs-4a680eac1a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4520,7 +4520,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-4ba9a61afd.rs",
+    "source": "accept/0035_weird_exprs-4ba9a61afd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4541,7 +4541,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-57b94ea3a7.rs",
+    "source": "accept/0035_weird_exprs-57b94ea3a7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4562,7 +4562,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-59212d14b1.rs",
+    "source": "accept/0035_weird_exprs-59212d14b1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4583,7 +4583,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-66b0682a7b.rs",
+    "source": "accept/0035_weird_exprs-66b0682a7b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4604,7 +4604,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-6dc6c9e21d.rs",
+    "source": "accept/0035_weird_exprs-6dc6c9e21d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4625,7 +4625,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-74c2303f61.rs",
+    "source": "accept/0035_weird_exprs-74c2303f61.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4646,7 +4646,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-759ed172f8.rs",
+    "source": "accept/0035_weird_exprs-759ed172f8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4667,7 +4667,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-76821ba636.rs",
+    "source": "accept/0035_weird_exprs-76821ba636.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -4718,7 +4718,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-7aa8d9e917.rs",
+    "source": "accept/0035_weird_exprs-7aa8d9e917.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6069,7 +6069,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-7e983f8f24.rs",
+    "source": "accept/0035_weird_exprs-7e983f8f24.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6090,7 +6090,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-8d7ddafb8e.rs",
+    "source": "accept/0035_weird_exprs-8d7ddafb8e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6121,7 +6121,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-8e226c0160.rs",
+    "source": "accept/0035_weird_exprs-8e226c0160.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6142,7 +6142,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-9034dc23f9.rs",
+    "source": "accept/0035_weird_exprs-9034dc23f9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6163,7 +6163,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-98214213e2.rs",
+    "source": "accept/0035_weird_exprs-98214213e2.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6184,7 +6184,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-a18a242ed6.rs",
+    "source": "accept/0035_weird_exprs-a18a242ed6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6205,7 +6205,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-a260691470.rs",
+    "source": "accept/0035_weird_exprs-a260691470.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6226,7 +6226,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-a27a6b24f7.rs",
+    "source": "accept/0035_weird_exprs-a27a6b24f7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6247,7 +6247,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-a62ff84b6e.rs",
+    "source": "accept/0035_weird_exprs-a62ff84b6e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6268,7 +6268,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-aaa10bb19b.rs",
+    "source": "accept/0035_weird_exprs-aaa10bb19b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6309,7 +6309,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-b067cbda0c.rs",
+    "source": "accept/0035_weird_exprs-b067cbda0c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6330,7 +6330,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-b7d5b0bb40.rs",
+    "source": "accept/0035_weird_exprs-b7d5b0bb40.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6351,7 +6351,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-b92bad4665.rs",
+    "source": "accept/0035_weird_exprs-b92bad4665.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6372,7 +6372,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-c01f07f107.rs",
+    "source": "accept/0035_weird_exprs-c01f07f107.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6413,7 +6413,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-c15dffc727.rs",
+    "source": "accept/0035_weird_exprs-c15dffc727.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6434,7 +6434,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-c96eedf215.rs",
+    "source": "accept/0035_weird_exprs-c96eedf215.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6455,7 +6455,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-cd95603e57.rs",
+    "source": "accept/0035_weird_exprs-cd95603e57.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6496,7 +6496,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-cebcd3081d.rs",
+    "source": "accept/0035_weird_exprs-cebcd3081d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6517,7 +6517,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-d47c4a71ea.rs",
+    "source": "accept/0035_weird_exprs-d47c4a71ea.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6608,7 +6608,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-d4c90c4a2d.rs",
+    "source": "accept/0035_weird_exprs-d4c90c4a2d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6629,7 +6629,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-dc5e9a4cba.rs",
+    "source": "accept/0035_weird_exprs-dc5e9a4cba.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6650,7 +6650,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-ecaef91e7f.rs",
+    "source": "accept/0035_weird_exprs-ecaef91e7f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6671,7 +6671,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-f0e2167636.rs",
+    "source": "accept/0035_weird_exprs-f0e2167636.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6692,7 +6692,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-f5884eee15.rs",
+    "source": "accept/0035_weird_exprs-f5884eee15.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6713,7 +6713,7 @@
     }
   },
   {
-    "source": "accept/0035_weird_exprs-ff2e542a80.rs",
+    "source": "accept/0035_weird_exprs-ff2e542a80.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6734,7 +6734,7 @@
     }
   },
   {
-    "source": "accept/0036_fully_qualified-1a0a81ed8b.rs",
+    "source": "accept/0036_fully_qualified-1a0a81ed8b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6765,7 +6765,7 @@
     }
   },
   {
-    "source": "accept/0036_fully_qualified-77e7c91a17.rs",
+    "source": "accept/0036_fully_qualified-77e7c91a17.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6796,7 +6796,7 @@
     }
   },
   {
-    "source": "accept/0036_fully_qualified-b32a98cd92.rs",
+    "source": "accept/0036_fully_qualified-b32a98cd92.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6847,7 +6847,7 @@
     }
   },
   {
-    "source": "accept/0036_fully_qualified-e8b68e2da8.rs",
+    "source": "accept/0036_fully_qualified-e8b68e2da8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "source": "accept/0038_where_pred_type-502eabc4f9.rs",
+    "source": "accept/0038_where_pred_type-502eabc4f9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7159,7 +7159,7 @@
     }
   },
   {
-    "source": "accept/0039_raw_fn_item-80a0299d70.rs",
+    "source": "accept/0039_raw_fn_item-80a0299d70.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7240,7 +7240,7 @@
     }
   },
   {
-    "source": "accept/0042_ufcs_call_list-d35a850a40.rs",
+    "source": "accept/0042_ufcs_call_list-d35a850a40.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7261,7 +7261,7 @@
     }
   },
   {
-    "source": "accept/0043_complex_assignment-1efa307161.rs",
+    "source": "accept/0043_complex_assignment-1efa307161.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7282,7 +7282,7 @@
     }
   },
   {
-    "source": "accept/0044_let_attrs-1202b22fc6.rs",
+    "source": "accept/0044_let_attrs-1202b22fc6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7303,7 +7303,7 @@
     }
   },
   {
-    "source": "accept/0044_let_attrs-57c0c8f6e9.rs",
+    "source": "accept/0044_let_attrs-57c0c8f6e9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7324,7 +7324,7 @@
     }
   },
   {
-    "source": "accept/0045_block_attrs-640821e3da.rs",
+    "source": "accept/0045_block_attrs-640821e3da.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7345,7 +7345,7 @@
     }
   },
   {
-    "source": "accept/0045_block_attrs-e182a4adee.rs",
+    "source": "accept/0045_block_attrs-e182a4adee.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7366,7 +7366,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-15c623c509.rs",
+    "source": "accept/0047_minus_in_inner_pattern-15c623c509.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7387,7 +7387,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-2fbe736288.rs",
+    "source": "accept/0047_minus_in_inner_pattern-2fbe736288.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7408,7 +7408,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-90fe57355a.rs",
+    "source": "accept/0047_minus_in_inner_pattern-90fe57355a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7429,7 +7429,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-928c596096.rs",
+    "source": "accept/0047_minus_in_inner_pattern-928c596096.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7480,7 +7480,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-ad7d43979d.rs",
+    "source": "accept/0047_minus_in_inner_pattern-ad7d43979d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7511,7 +7511,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-d16f51344b.rs",
+    "source": "accept/0047_minus_in_inner_pattern-d16f51344b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7572,7 +7572,7 @@
     }
   },
   {
-    "source": "accept/0047_minus_in_inner_pattern-dc38b45613.rs",
+    "source": "accept/0047_minus_in_inner_pattern-dc38b45613.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7593,7 +7593,7 @@
     }
   },
   {
-    "source": "accept/0048_compound_assignment-8e49b434c4.rs",
+    "source": "accept/0048_compound_assignment-8e49b434c4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7614,7 +7614,7 @@
     }
   },
   {
-    "source": "accept/0050_async_block_as_argument-0624f9ac1f.rs",
+    "source": "accept/0050_async_block_as_argument-0624f9ac1f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7635,7 +7635,7 @@
     }
   },
   {
-    "source": "accept/0050_async_block_as_argument-938485e100.rs",
+    "source": "accept/0050_async_block_as_argument-938485e100.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7716,7 +7716,7 @@
     }
   },
   {
-    "source": "accept/0051_parameter_attrs-81966f013d.rs",
+    "source": "accept/0051_parameter_attrs-81966f013d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7737,7 +7737,7 @@
     }
   },
   {
-    "source": "accept/0051_parameter_attrs-c1a6e9c81c.rs",
+    "source": "accept/0051_parameter_attrs-c1a6e9c81c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7788,7 +7788,7 @@
     }
   },
   {
-    "source": "accept/0051_parameter_attrs-e915360538.rs",
+    "source": "accept/0051_parameter_attrs-e915360538.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -7819,7 +7819,7 @@
     }
   },
   {
-    "source": "accept/0052_for_range_block-1683f7e035.rs",
+    "source": "accept/0052_for_range_block-1683f7e035.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8110,7 +8110,7 @@
     }
   },
   {
-    "source": "accept/0052_for_range_block-91ff937572.rs",
+    "source": "accept/0052_for_range_block-91ff937572.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8141,7 +8141,7 @@
     }
   },
   {
-    "source": "accept/0052_for_range_block-b661f92c23.rs",
+    "source": "accept/0052_for_range_block-b661f92c23.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8162,7 +8162,7 @@
     }
   },
   {
-    "source": "accept/0054_qual_path_in_type_arg-609103b896.rs",
+    "source": "accept/0054_qual_path_in_type_arg-609103b896.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8183,7 +8183,7 @@
     }
   },
   {
-    "source": "accept/0054_qual_path_in_type_arg-b34b81d415.rs",
+    "source": "accept/0054_qual_path_in_type_arg-b34b81d415.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8204,7 +8204,7 @@
     }
   },
   {
-    "source": "accept/0054_qual_path_in_type_arg-f583d19297.rs",
+    "source": "accept/0054_qual_path_in_type_arg-f583d19297.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8225,7 +8225,7 @@
     }
   },
   {
-    "source": "accept/0055_dot_dot_dot-d9c307d36e.rs",
+    "source": "accept/0055_dot_dot_dot-d9c307d36e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8426,7 +8426,7 @@
     }
   },
   {
-    "source": "accept/0057_loop_in_call-fa5976cf90.rs",
+    "source": "accept/0057_loop_in_call-fa5976cf90.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8447,7 +8447,7 @@
     }
   },
   {
-    "source": "accept/0058_unary_expr_precedence-a903ed44e0.rs",
+    "source": "accept/0058_unary_expr_precedence-a903ed44e0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8468,7 +8468,7 @@
     }
   },
   {
-    "source": "accept/0058_unary_expr_precedence-b50c97389a.rs",
+    "source": "accept/0058_unary_expr_precedence-b50c97389a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8489,7 +8489,7 @@
     }
   },
   {
-    "source": "accept/0058_unary_expr_precedence-bca4ad3a9f.rs",
+    "source": "accept/0058_unary_expr_precedence-bca4ad3a9f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8510,7 +8510,7 @@
     }
   },
   {
-    "source": "accept/0058_unary_expr_precedence-ea8c4c55ef.rs",
+    "source": "accept/0058_unary_expr_precedence-ea8c4c55ef.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8531,7 +8531,7 @@
     }
   },
   {
-    "source": "accept/0059_loops_in_parens-41faa9e483.rs",
+    "source": "accept/0059_loops_in_parens-41faa9e483.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8552,7 +8552,7 @@
     }
   },
   {
-    "source": "accept/0059_loops_in_parens-adc7ca998a.rs",
+    "source": "accept/0059_loops_in_parens-adc7ca998a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8573,7 +8573,7 @@
     }
   },
   {
-    "source": "accept/0059_loops_in_parens-e6cd4ed277.rs",
+    "source": "accept/0059_loops_in_parens-e6cd4ed277.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8594,7 +8594,7 @@
     }
   },
   {
-    "source": "accept/0060_as_range-4fd2b6124e.rs",
+    "source": "accept/0060_as_range-4fd2b6124e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8615,7 +8615,7 @@
     }
   },
   {
-    "source": "accept/0060_as_range-90593c79f3.rs",
+    "source": "accept/0060_as_range-90593c79f3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8636,7 +8636,7 @@
     }
   },
   {
-    "source": "accept/0063_trait_fn_patterns-27c7011521.rs",
+    "source": "accept/0063_trait_fn_patterns-27c7011521.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8677,7 +8677,7 @@
     }
   },
   {
-    "source": "accept/0063_trait_fn_patterns-ccea2f9005.rs",
+    "source": "accept/0063_trait_fn_patterns-ccea2f9005.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8708,7 +8708,7 @@
     }
   },
   {
-    "source": "accept/0064_impl_fn_params-3b1655eca6.rs",
+    "source": "accept/0064_impl_fn_params-3b1655eca6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8739,7 +8739,7 @@
     }
   },
   {
-    "source": "accept/0065_plus_after_fn_trait_bound-2dea0386f2.rs",
+    "source": "accept/0065_plus_after_fn_trait_bound-2dea0386f2.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8850,7 +8850,7 @@
     }
   },
   {
-    "source": "accept/0066_default_modifier-b51cf9fd7e.rs",
+    "source": "accept/0066_default_modifier-b51cf9fd7e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8891,7 +8891,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-4e69d4ead4.rs",
+    "source": "accept/0067_where_for_pred-4e69d4ead4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8932,7 +8932,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-4ee496ed4d.rs",
+    "source": "accept/0067_where_for_pred-4ee496ed4d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8963,7 +8963,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-628e437fc9.rs",
+    "source": "accept/0067_where_for_pred-628e437fc9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -8994,7 +8994,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-8f36ff69fd.rs",
+    "source": "accept/0067_where_for_pred-8f36ff69fd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9015,7 +9015,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-8fd79d0a13.rs",
+    "source": "accept/0067_where_for_pred-8fd79d0a13.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9036,7 +9036,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-97d807b04a.rs",
+    "source": "accept/0067_where_for_pred-97d807b04a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9077,7 +9077,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-a9884b38f8.rs",
+    "source": "accept/0067_where_for_pred-a9884b38f8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9098,7 +9098,7 @@
     }
   },
   {
-    "source": "accept/0067_where_for_pred-b69beff936.rs",
+    "source": "accept/0067_where_for_pred-b69beff936.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9129,7 +9129,7 @@
     }
   },
   {
-    "source": "accept/0069_multi_trait_object-c83a42868c.rs",
+    "source": "accept/0069_multi_trait_object-c83a42868c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9150,7 +9150,7 @@
     }
   },
   {
-    "source": "accept/0069_multi_trait_object-cb0224e463.rs",
+    "source": "accept/0069_multi_trait_object-cb0224e463.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9181,7 +9181,7 @@
     }
   },
   {
-    "source": "accept/0069_multi_trait_object-e25d4d2598.rs",
+    "source": "accept/0069_multi_trait_object-e25d4d2598.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9212,7 +9212,7 @@
     }
   },
   {
-    "source": "accept/0069_multi_trait_object-e723d6761e.rs",
+    "source": "accept/0069_multi_trait_object-e723d6761e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9233,7 +9233,7 @@
     }
   },
   {
-    "source": "accept/0070_expr_attr_placement-b399a29b72.rs",
+    "source": "accept/0070_expr_attr_placement-b399a29b72.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9254,7 +9254,7 @@
     }
   },
   {
-    "source": "accept/0070_expr_attr_placement-ba9ba4b6e3.rs",
+    "source": "accept/0070_expr_attr_placement-ba9ba4b6e3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9275,7 +9275,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-112e84486a.rs",
+    "source": "accept/0072_destructuring_assignment-112e84486a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9346,7 +9346,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-322afd755a.rs",
+    "source": "accept/0072_destructuring_assignment-322afd755a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9367,7 +9367,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-370d932831.rs",
+    "source": "accept/0072_destructuring_assignment-370d932831.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9388,7 +9388,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-401c0cdf6f.rs",
+    "source": "accept/0072_destructuring_assignment-401c0cdf6f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9409,7 +9409,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-77e9741276.rs",
+    "source": "accept/0072_destructuring_assignment-77e9741276.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9490,7 +9490,7 @@
     }
   },
   {
-    "source": "accept/0072_destructuring_assignment-906563b2fe.rs",
+    "source": "accept/0072_destructuring_assignment-906563b2fe.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9511,7 +9511,7 @@
     }
   },
   {
-    "source": "accept/0073_safe_declarations_in_extern_blocks-8ad4b366d8.rs",
+    "source": "accept/0073_safe_declarations_in_extern_blocks-8ad4b366d8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9532,7 +9532,7 @@
     }
   },
   {
-    "source": "accept/0073_safe_declarations_in_extern_blocks-94b01d74c8.rs",
+    "source": "accept/0073_safe_declarations_in_extern_blocks-94b01d74c8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9553,7 +9553,7 @@
     }
   },
   {
-    "source": "accept/0073_safe_declarations_in_extern_blocks-99f57b8e82.rs",
+    "source": "accept/0073_safe_declarations_in_extern_blocks-99f57b8e82.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9574,7 +9574,7 @@
     }
   },
   {
-    "source": "accept/0073_safe_declarations_in_extern_blocks-aae887e3f3.rs",
+    "source": "accept/0073_safe_declarations_in_extern_blocks-aae887e3f3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9595,7 +9595,7 @@
     }
   },
   {
-    "source": "accept/arb_self_types-6855903e5c.rs",
+    "source": "accept/arb_self_types-6855903e5c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9616,7 +9616,7 @@
     }
   },
   {
-    "source": "accept/arb_self_types-dfd2248dee.rs",
+    "source": "accept/arb_self_types-dfd2248dee.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9637,7 +9637,7 @@
     }
   },
   {
-    "source": "accept/array_expr-253c89a05c.rs",
+    "source": "accept/array_expr-253c89a05c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9658,7 +9658,7 @@
     }
   },
   {
-    "source": "accept/as-precedence-37b90d97ee.rs",
+    "source": "accept/as-precedence-37b90d97ee.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9679,7 +9679,7 @@
     }
   },
   {
-    "source": "accept/as-precedence-54c8e4c0c4.rs",
+    "source": "accept/as-precedence-54c8e4c0c4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9700,7 +9700,7 @@
     }
   },
   {
-    "source": "accept/as-precedence-b929e01004.rs",
+    "source": "accept/as-precedence-b929e01004.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9721,7 +9721,7 @@
     }
   },
   {
-    "source": "accept/as-precedence-c2b0b4656a.rs",
+    "source": "accept/as-precedence-c2b0b4656a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9742,7 +9742,7 @@
     }
   },
   {
-    "source": "accept/as-precedence-c3c4297dcd.rs",
+    "source": "accept/as-precedence-c3c4297dcd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9763,7 +9763,7 @@
     }
   },
   {
-    "source": "accept/as_precedence-815a04ab1d.rs",
+    "source": "accept/as_precedence-815a04ab1d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9804,7 +9804,7 @@
     }
   },
   {
-    "source": "accept/assoc_const_eq-45fb96f683.rs",
+    "source": "accept/assoc_const_eq-45fb96f683.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9825,7 +9825,7 @@
     }
   },
   {
-    "source": "accept/assoc_const_eq-b25d612726.rs",
+    "source": "accept/assoc_const_eq-b25d612726.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9846,7 +9846,7 @@
     }
   },
   {
-    "source": "accept/assoc_item_list-a02d26734d.rs",
+    "source": "accept/assoc_item_list-a02d26734d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9867,7 +9867,7 @@
     }
   },
   {
-    "source": "accept/assoc_item_list-e27aa75a41.rs",
+    "source": "accept/assoc_item_list-e27aa75a41.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9898,7 +9898,7 @@
     }
   },
   {
-    "source": "accept/async_trait_bound-05260d2f00.rs",
+    "source": "accept/async_trait_bound-05260d2f00.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9919,7 +9919,7 @@
     }
   },
   {
-    "source": "accept/bare_dyn_types_with_leading_lifetime-14afec2169.rs",
+    "source": "accept/bare_dyn_types_with_leading_lifetime-14afec2169.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -9990,7 +9990,7 @@
     }
   },
   {
-    "source": "accept/bind_pat-6c96b8591d.rs",
+    "source": "accept/bind_pat-6c96b8591d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10011,7 +10011,7 @@
     }
   },
   {
-    "source": "accept/bind_pat-9b9f9c7e40.rs",
+    "source": "accept/bind_pat-9b9f9c7e40.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10032,7 +10032,7 @@
     }
   },
   {
-    "source": "accept/binop_resets_statementness-0a1f2ecfdc.rs",
+    "source": "accept/binop_resets_statementness-0a1f2ecfdc.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10053,7 +10053,7 @@
     }
   },
   {
-    "source": "accept/block-8501555de6.rs",
+    "source": "accept/block-8501555de6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10074,7 +10074,7 @@
     }
   },
   {
-    "source": "accept/block-e4bfad3ee1.rs",
+    "source": "accept/block-e4bfad3ee1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10095,7 +10095,7 @@
     }
   },
   {
-    "source": "accept/block-expr-statement-vs-expr-65aa9c84b4.rs",
+    "source": "accept/block-expr-statement-vs-expr-65aa9c84b4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10116,7 +10116,7 @@
     }
   },
   {
-    "source": "accept/block-expr-statement-vs-expr-9daf5fa6c1.rs",
+    "source": "accept/block-expr-statement-vs-expr-9daf5fa6c1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10137,7 +10137,7 @@
     }
   },
   {
-    "source": "accept/block-expr-statement-vs-expr-a68627b199.rs",
+    "source": "accept/block-expr-statement-vs-expr-a68627b199.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10158,7 +10158,7 @@
     }
   },
   {
-    "source": "accept/block-expr-statement-vs-expr-f0dde85eec.rs",
+    "source": "accept/block-expr-statement-vs-expr-f0dde85eec.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10179,7 +10179,7 @@
     }
   },
   {
-    "source": "accept/block_items-59c1f4a811.rs",
+    "source": "accept/block_items-59c1f4a811.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10200,7 +10200,7 @@
     }
   },
   {
-    "source": "accept/break-in-unlabeled-block-509f8e5f22.rs",
+    "source": "accept/break-in-unlabeled-block-509f8e5f22.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10221,7 +10221,7 @@
     }
   },
   {
-    "source": "accept/break_ambiguity-1e03b43539.rs",
+    "source": "accept/break_ambiguity-1e03b43539.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10242,7 +10242,7 @@
     }
   },
   {
-    "source": "accept/break_ambiguity-3073889f26.rs",
+    "source": "accept/break_ambiguity-3073889f26.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10263,7 +10263,7 @@
     }
   },
   {
-    "source": "accept/break_expr-b877191448.rs",
+    "source": "accept/break_expr-b877191448.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10284,7 +10284,7 @@
     }
   },
   {
-    "source": "accept/builtin_expr-0545224cd5.rs",
+    "source": "accept/builtin_expr-0545224cd5.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10305,7 +10305,7 @@
     }
   },
   {
-    "source": "accept/builtin_expr-43ee029b5f.rs",
+    "source": "accept/builtin_expr-43ee029b5f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10326,7 +10326,7 @@
     }
   },
   {
-    "source": "accept/call_expr-0c4a93b73d.rs",
+    "source": "accept/call_expr-0c4a93b73d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10357,7 +10357,7 @@
     }
   },
   {
-    "source": "accept/call_expr-219b3f53cb.rs",
+    "source": "accept/call_expr-219b3f53cb.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10378,7 +10378,7 @@
     }
   },
   {
-    "source": "accept/call_expr-47bcc6ad22.rs",
+    "source": "accept/call_expr-47bcc6ad22.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10399,7 +10399,7 @@
     }
   },
   {
-    "source": "accept/cast-angle-bracket-precedence-a62c8e0edf.rs",
+    "source": "accept/cast-angle-bracket-precedence-a62c8e0edf.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10420,7 +10420,7 @@
     }
   },
   {
-    "source": "accept/cast_expr-0e7be9642f.rs",
+    "source": "accept/cast_expr-0e7be9642f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10441,7 +10441,7 @@
     }
   },
   {
-    "source": "accept/cast_expr-1ce94756ed.rs",
+    "source": "accept/cast_expr-1ce94756ed.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10462,7 +10462,7 @@
     }
   },
   {
-    "source": "accept/cast_expr-c033dda14d.rs",
+    "source": "accept/cast_expr-c033dda14d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10483,7 +10483,7 @@
     }
   },
   {
-    "source": "accept/cast_expr-d8e76468a1.rs",
+    "source": "accept/cast_expr-d8e76468a1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10504,7 +10504,7 @@
     }
   },
   {
-    "source": "accept/cast_expr-eaaf9ed195.rs",
+    "source": "accept/cast_expr-eaaf9ed195.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10525,7 +10525,7 @@
     }
   },
   {
-    "source": "accept/closure_params-ed07a4b0c6.rs",
+    "source": "accept/closure_params-ed07a4b0c6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10546,7 +10546,7 @@
     }
   },
   {
-    "source": "accept/const_arg_block-27e9eb445a.rs",
+    "source": "accept/const_arg_block-27e9eb445a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10567,7 +10567,7 @@
     }
   },
   {
-    "source": "accept/const_arg_bool_literal-4e89a70329.rs",
+    "source": "accept/const_arg_bool_literal-4e89a70329.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10628,7 +10628,7 @@
     }
   },
   {
-    "source": "accept/const_arg_literal-002897d2f0.rs",
+    "source": "accept/const_arg_literal-002897d2f0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10649,7 +10649,7 @@
     }
   },
   {
-    "source": "accept/const_arg_negative_number-253c0ddd1e.rs",
+    "source": "accept/const_arg_negative_number-253c0ddd1e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10670,7 +10670,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-1127b82586.rs",
+    "source": "accept/const_block_pat-1127b82586.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10691,7 +10691,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-1a71e5d004.rs",
+    "source": "accept/const_block_pat-1a71e5d004.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10722,7 +10722,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-501dd1b584.rs",
+    "source": "accept/const_block_pat-501dd1b584.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10743,7 +10743,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-9b66768f30.rs",
+    "source": "accept/const_block_pat-9b66768f30.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10764,7 +10764,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-c505b7df31.rs",
+    "source": "accept/const_block_pat-c505b7df31.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10785,7 +10785,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-d6d3c3b780.rs",
+    "source": "accept/const_block_pat-d6d3c3b780.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10826,7 +10826,7 @@
     }
   },
   {
-    "source": "accept/const_block_pat-d74a7a4c62.rs",
+    "source": "accept/const_block_pat-d74a7a4c62.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10857,7 +10857,7 @@
     }
   },
   {
-    "source": "accept/const_item-f7fc605c53.rs",
+    "source": "accept/const_item-f7fc605c53.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10878,7 +10878,7 @@
     }
   },
   {
-    "source": "accept/const_param_default_path-95f83a7ff1.rs",
+    "source": "accept/const_param_default_path-95f83a7ff1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10899,7 +10899,7 @@
     }
   },
   {
-    "source": "accept/continue_expr-a955bad456.rs",
+    "source": "accept/continue_expr-a955bad456.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10920,7 +10920,7 @@
     }
   },
   {
-    "source": "accept/crate_path-6ae65269f4.rs",
+    "source": "accept/crate_path-6ae65269f4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10941,7 +10941,7 @@
     }
   },
   {
-    "source": "accept/destructuring_assignment_struct_rest_pattern-bb1b7753ce.rs",
+    "source": "accept/destructuring_assignment_struct_rest_pattern-bb1b7753ce.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -10972,7 +10972,7 @@
     }
   },
   {
-    "source": "accept/destructuring_assignment_wildcard_pat-23343645bd.rs",
+    "source": "accept/destructuring_assignment_wildcard_pat-23343645bd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11013,7 +11013,7 @@
     }
   },
   {
-    "source": "accept/doc-before-eof-154957def5.rs",
+    "source": "accept/doc-before-eof-154957def5.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11034,7 +11034,7 @@
     }
   },
   {
-    "source": "accept/doc-before-fn-rbrace-ebd2be052b.rs",
+    "source": "accept/doc-before-fn-rbrace-ebd2be052b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11055,7 +11055,7 @@
     }
   },
   {
-    "source": "accept/doc-before-identifier-f1713eec7e.rs",
+    "source": "accept/doc-before-identifier-f1713eec7e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11076,7 +11076,7 @@
     }
   },
   {
-    "source": "accept/doc-before-semi-92462d6993.rs",
+    "source": "accept/doc-before-semi-92462d6993.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11097,7 +11097,7 @@
     }
   },
   {
-    "source": "accept/doc-comment-in-if-statement-39e1f3aa61.rs",
+    "source": "accept/doc-comment-in-if-statement-39e1f3aa61.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11118,7 +11118,7 @@
     }
   },
   {
-    "source": "accept/dyn_trait_type-f8fa5da50c.rs",
+    "source": "accept/dyn_trait_type-f8fa5da50c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11149,7 +11149,7 @@
     }
   },
   {
-    "source": "accept/dyn_trait_type_weak-6eadff0b13.rs",
+    "source": "accept/dyn_trait_type_weak-6eadff0b13.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11230,7 +11230,7 @@
     }
   },
   {
-    "source": "accept/expression_after_block-973387a148.rs",
+    "source": "accept/expression_after_block-973387a148.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11251,7 +11251,7 @@
     }
   },
   {
-    "source": "accept/field_expr-a2e32c965b.rs",
+    "source": "accept/field_expr-a2e32c965b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11272,7 +11272,7 @@
     }
   },
   {
-    "source": "accept/fn_-7bf4c4a662.rs",
+    "source": "accept/fn_-7bf4c4a662.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11293,7 +11293,7 @@
     }
   },
   {
-    "source": "accept/fn_pointer_param_ident_path-d49bef9cc6.rs",
+    "source": "accept/fn_pointer_param_ident_path-d49bef9cc6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11324,7 +11324,7 @@
     }
   },
   {
-    "source": "accept/fn_pointer_unnamed_arg-b884093930.rs",
+    "source": "accept/fn_pointer_unnamed_arg-b884093930.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11345,7 +11345,7 @@
     }
   },
   {
-    "source": "accept/for_expr-37a296e512.rs",
+    "source": "accept/for_expr-37a296e512.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11386,7 +11386,7 @@
     }
   },
   {
-    "source": "accept/for_type-0656bd815a.rs",
+    "source": "accept/for_type-0656bd815a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11417,7 +11417,7 @@
     }
   },
   {
-    "source": "accept/for_type-ce5d2e3ff0.rs",
+    "source": "accept/for_type-ce5d2e3ff0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11438,7 +11438,7 @@
     }
   },
   {
-    "source": "accept/frontmatter-1cfd6e512c.rs",
+    "source": "accept/frontmatter-1cfd6e512c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11459,7 +11459,7 @@
     }
   },
   {
-    "source": "accept/full_range_expr-fea789aa79.rs",
+    "source": "accept/full_range_expr-fea789aa79.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11480,7 +11480,7 @@
     }
   },
   {
-    "source": "accept/function_ret_type-af785f7f17.rs",
+    "source": "accept/function_ret_type-af785f7f17.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11501,7 +11501,7 @@
     }
   },
   {
-    "source": "accept/generic_arg_bounds-2b25b594e1.rs",
+    "source": "accept/generic_arg_bounds-2b25b594e1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11592,7 +11592,7 @@
     }
   },
   {
-    "source": "accept/generic_arg_bounds-3105ceda27.rs",
+    "source": "accept/generic_arg_bounds-3105ceda27.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11673,7 +11673,7 @@
     }
   },
   {
-    "source": "accept/generic_arg_bounds-7852ffc768.rs",
+    "source": "accept/generic_arg_bounds-7852ffc768.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11694,7 +11694,7 @@
     }
   },
   {
-    "source": "accept/generic_arg_bounds-90fdf085d2.rs",
+    "source": "accept/generic_arg_bounds-90fdf085d2.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11715,7 +11715,7 @@
     }
   },
   {
-    "source": "accept/generic_arg_bounds-e79b745661.rs",
+    "source": "accept/generic_arg_bounds-e79b745661.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11736,7 +11736,7 @@
     }
   },
   {
-    "source": "accept/generic_const-80f080fd49.rs",
+    "source": "accept/generic_const-80f080fd49.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11757,7 +11757,7 @@
     }
   },
   {
-    "source": "accept/guard_let_struct-5ac0a3d51a.rs",
+    "source": "accept/guard_let_struct-5ac0a3d51a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11778,7 +11778,7 @@
     }
   },
   {
-    "source": "accept/half_open_range_pat-68d1c1d37b.rs",
+    "source": "accept/half_open_range_pat-68d1c1d37b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11809,7 +11809,7 @@
     }
   },
   {
-    "source": "accept/half_open_range_pat-aebd1a14e0.rs",
+    "source": "accept/half_open_range_pat-aebd1a14e0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11830,7 +11830,7 @@
     }
   },
   {
-    "source": "accept/if-block-unreachable-expr-a7012b084f.rs",
+    "source": "accept/if-block-unreachable-expr-a7012b084f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11851,7 +11851,7 @@
     }
   },
   {
-    "source": "accept/if_expr-4480aeeff9.rs",
+    "source": "accept/if_expr-4480aeeff9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11872,7 +11872,7 @@
     }
   },
   {
-    "source": "accept/impl_item-b306230270.rs",
+    "source": "accept/impl_item-b306230270.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11893,7 +11893,7 @@
     }
   },
   {
-    "source": "accept/impl_restrictions-871b2ca926.rs",
+    "source": "accept/impl_restrictions-871b2ca926.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11914,7 +11914,7 @@
     }
   },
   {
-    "source": "accept/impl_restrictions-8e399ab938.rs",
+    "source": "accept/impl_restrictions-8e399ab938.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11935,7 +11935,7 @@
     }
   },
   {
-    "source": "accept/impl_type_params-c315cd376d.rs",
+    "source": "accept/impl_type_params-c315cd376d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11956,7 +11956,7 @@
     }
   },
   {
-    "source": "accept/index_expr-8db3c25e5e.rs",
+    "source": "accept/index_expr-8db3c25e5e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -11977,7 +11977,7 @@
     }
   },
   {
-    "source": "accept/lambda_expr-1761197b53.rs",
+    "source": "accept/lambda_expr-1761197b53.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12008,7 +12008,7 @@
     }
   },
   {
-    "source": "accept/let_else-5cf1f7dcb8.rs",
+    "source": "accept/let_else-5cf1f7dcb8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12029,7 +12029,7 @@
     }
   },
   {
-    "source": "accept/let_expr-39f4fdbe3f.rs",
+    "source": "accept/let_expr-39f4fdbe3f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12050,7 +12050,7 @@
     }
   },
   {
-    "source": "accept/let_stmt-67ae17728e.rs",
+    "source": "accept/let_stmt-67ae17728e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12071,7 +12071,7 @@
     }
   },
   {
-    "source": "accept/let_stmt_init-6e8e7350cb.rs",
+    "source": "accept/let_stmt_init-6e8e7350cb.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12092,7 +12092,7 @@
     }
   },
   {
-    "source": "accept/lex-bare-cr-nondoc-comment-54c10d71e6.rs",
+    "source": "accept/lex-bare-cr-nondoc-comment-54c10d71e6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12113,7 +12113,7 @@
     }
   },
   {
-    "source": "accept/lifetime_arg-0d7aa59f72.rs",
+    "source": "accept/lifetime_arg-0d7aa59f72.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12134,7 +12134,7 @@
     }
   },
   {
-    "source": "accept/lifetime_param-adb99c278f.rs",
+    "source": "accept/lifetime_param-adb99c278f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12155,7 +12155,7 @@
     }
   },
   {
-    "source": "accept/loop_expr-710a7c0202.rs",
+    "source": "accept/loop_expr-710a7c0202.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12176,7 +12176,7 @@
     }
   },
   {
-    "source": "accept/match_arm-1e8eca9129.rs",
+    "source": "accept/match_arm-1e8eca9129.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12197,7 +12197,7 @@
     }
   },
   {
-    "source": "accept/match_arm-d3e787dbc4.rs",
+    "source": "accept/match_arm-d3e787dbc4.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12228,7 +12228,7 @@
     }
   },
   {
-    "source": "accept/match_expr-a0b40d5264.rs",
+    "source": "accept/match_expr-a0b40d5264.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12249,7 +12249,7 @@
     }
   },
   {
-    "source": "accept/match_expr-d9e5635c30.rs",
+    "source": "accept/match_expr-d9e5635c30.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12280,7 +12280,7 @@
     }
   },
   {
-    "source": "accept/match_guard-a1bd83fa20.rs",
+    "source": "accept/match_guard-a1bd83fa20.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12301,7 +12301,7 @@
     }
   },
   {
-    "source": "accept/method_call_expr-773f560a26.rs",
+    "source": "accept/method_call_expr-773f560a26.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12322,7 +12322,7 @@
     }
   },
   {
-    "source": "accept/method_call_expr-ae960be064.rs",
+    "source": "accept/method_call_expr-ae960be064.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12343,7 +12343,7 @@
     }
   },
   {
-    "source": "accept/no_dyn_trait_leading_for-90c93dd0ed.rs",
+    "source": "accept/no_dyn_trait_leading_for-90c93dd0ed.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12364,7 +12364,7 @@
     }
   },
   {
-    "source": "accept/no_semi_after_block-03804b243f.rs",
+    "source": "accept/no_semi_after_block-03804b243f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12385,7 +12385,7 @@
     }
   },
   {
-    "source": "accept/no_semi_after_block-2bfe57c520.rs",
+    "source": "accept/no_semi_after_block-2bfe57c520.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12416,7 +12416,7 @@
     }
   },
   {
-    "source": "accept/no_semi_after_block-5e1bcc8d05.rs",
+    "source": "accept/no_semi_after_block-5e1bcc8d05.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12437,7 +12437,7 @@
     }
   },
   {
-    "source": "accept/nocontentexpr-785f531d8d.rs",
+    "source": "accept/nocontentexpr-785f531d8d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12458,7 +12458,7 @@
     }
   },
   {
-    "source": "accept/nocontentexpr_after_item-81616e033e.rs",
+    "source": "accept/nocontentexpr_after_item-81616e033e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12479,7 +12479,7 @@
     }
   },
   {
-    "source": "accept/non_isolated_self-be82bffd8b.rs",
+    "source": "accept/non_isolated_self-be82bffd8b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12500,7 +12500,7 @@
     }
   },
   {
-    "source": "accept/non_isolated_self-c1bd695955.rs",
+    "source": "accept/non_isolated_self-c1bd695955.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12521,7 +12521,7 @@
     }
   },
   {
-    "source": "accept/operator-precedence-braces-exprs-06095af0bb.rs",
+    "source": "accept/operator-precedence-braces-exprs-06095af0bb.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12542,7 +12542,7 @@
     }
   },
   {
-    "source": "accept/operator-precedence-braces-exprs-5967871a05.rs",
+    "source": "accept/operator-precedence-braces-exprs-5967871a05.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12563,7 +12563,7 @@
     }
   },
   {
-    "source": "accept/operator-precedence-braces-exprs-8d148d3d85.rs",
+    "source": "accept/operator-precedence-braces-exprs-8d148d3d85.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12584,7 +12584,7 @@
     }
   },
   {
-    "source": "accept/operator-precedence-braces-exprs-a5fb340031.rs",
+    "source": "accept/operator-precedence-braces-exprs-a5fb340031.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12605,7 +12605,7 @@
     }
   },
   {
-    "source": "accept/param_list-e6e46cd27a.rs",
+    "source": "accept/param_list-e6e46cd27a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12626,7 +12626,7 @@
     }
   },
   {
-    "source": "accept/paren_type-50d3e562ff.rs",
+    "source": "accept/paren_type-50d3e562ff.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12647,7 +12647,7 @@
     }
   },
   {
-    "source": "accept/path_expr-5c19dc9be3.rs",
+    "source": "accept/path_expr-5c19dc9be3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12668,7 +12668,7 @@
     }
   },
   {
-    "source": "accept/path_expr-915d7cc6f0.rs",
+    "source": "accept/path_expr-915d7cc6f0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12689,7 +12689,7 @@
     }
   },
   {
-    "source": "accept/path_type-6565d38b3f.rs",
+    "source": "accept/path_type-6565d38b3f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12710,7 +12710,7 @@
     }
   },
   {
-    "source": "accept/pattern_type-1bfabd9c2b.rs",
+    "source": "accept/pattern_type-1bfabd9c2b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12761,7 +12761,7 @@
     }
   },
   {
-    "source": "accept/postfix_range-de9ca63c14.rs",
+    "source": "accept/postfix_range-de9ca63c14.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12782,7 +12782,7 @@
     }
   },
   {
-    "source": "accept/precise_capturing-2cb53d1174.rs",
+    "source": "accept/precise_capturing-2cb53d1174.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12823,7 +12823,7 @@
     }
   },
   {
-    "source": "accept/pub_tuple_field-471eb7bd4e.rs",
+    "source": "accept/pub_tuple_field-471eb7bd4e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12844,7 +12844,7 @@
     }
   },
   {
-    "source": "accept/qual_paths-036fd549d1.rs",
+    "source": "accept/qual_paths-036fd549d1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12865,7 +12865,7 @@
     }
   },
   {
-    "source": "accept/qual_paths-2f17fbd870.rs",
+    "source": "accept/qual_paths-2f17fbd870.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12886,7 +12886,7 @@
     }
   },
   {
-    "source": "accept/qual_paths-52eb6ece3c.rs",
+    "source": "accept/qual_paths-52eb6ece3c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12907,7 +12907,7 @@
     }
   },
   {
-    "source": "accept/range_pat-0ea0fea5a8.rs",
+    "source": "accept/range_pat-0ea0fea5a8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12928,7 +12928,7 @@
     }
   },
   {
-    "source": "accept/range_pat-2e091efaaf.rs",
+    "source": "accept/range_pat-2e091efaaf.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12949,7 +12949,7 @@
     }
   },
   {
-    "source": "accept/range_pat-4e354d7275.rs",
+    "source": "accept/range_pat-4e354d7275.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -12980,7 +12980,7 @@
     }
   },
   {
-    "source": "accept/range_pat-571d7fe7e8.rs",
+    "source": "accept/range_pat-571d7fe7e8.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13001,7 +13001,7 @@
     }
   },
   {
-    "source": "accept/range_pat-6a1b57c497.rs",
+    "source": "accept/range_pat-6a1b57c497.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13022,7 +13022,7 @@
     }
   },
   {
-    "source": "accept/range_pat-b684f46564.rs",
+    "source": "accept/range_pat-b684f46564.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13043,7 +13043,7 @@
     }
   },
   {
-    "source": "accept/range_pat-c8f1dd5254.rs",
+    "source": "accept/range_pat-c8f1dd5254.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13064,7 +13064,7 @@
     }
   },
   {
-    "source": "accept/range_pat-f65704a3c5.rs",
+    "source": "accept/range_pat-f65704a3c5.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13085,7 +13085,7 @@
     }
   },
   {
-    "source": "accept/record_lit-9cea1d2139.rs",
+    "source": "accept/record_lit-9cea1d2139.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13106,7 +13106,7 @@
     }
   },
   {
-    "source": "accept/record_lit-a964bcc7ac.rs",
+    "source": "accept/record_lit-a964bcc7ac.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13147,7 +13147,7 @@
     }
   },
   {
-    "source": "accept/ref_expr-76b0169d8a.rs",
+    "source": "accept/ref_expr-76b0169d8a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13168,7 +13168,7 @@
     }
   },
   {
-    "source": "accept/ref_expr-cf6ce7cb54.rs",
+    "source": "accept/ref_expr-cf6ce7cb54.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13189,7 +13189,7 @@
     }
   },
   {
-    "source": "accept/ref_expr-f3de9b92b3.rs",
+    "source": "accept/ref_expr-f3de9b92b3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13210,7 +13210,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-0558844306.rs",
+    "source": "accept/reference-whitespace-parsing-0558844306.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13231,7 +13231,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-1699bbd8fb.rs",
+    "source": "accept/reference-whitespace-parsing-1699bbd8fb.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13252,7 +13252,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-1b5a1e540a.rs",
+    "source": "accept/reference-whitespace-parsing-1b5a1e540a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13273,7 +13273,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-1c2fb03e54.rs",
+    "source": "accept/reference-whitespace-parsing-1c2fb03e54.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13294,7 +13294,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-2a7b8683d1.rs",
+    "source": "accept/reference-whitespace-parsing-2a7b8683d1.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13315,7 +13315,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-34f80023f7.rs",
+    "source": "accept/reference-whitespace-parsing-34f80023f7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13336,7 +13336,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-410940f3dc.rs",
+    "source": "accept/reference-whitespace-parsing-410940f3dc.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13357,7 +13357,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-44aabe39f7.rs",
+    "source": "accept/reference-whitespace-parsing-44aabe39f7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13378,7 +13378,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-46a7e12fbc.rs",
+    "source": "accept/reference-whitespace-parsing-46a7e12fbc.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13409,7 +13409,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-650c9eff41.rs",
+    "source": "accept/reference-whitespace-parsing-650c9eff41.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13430,7 +13430,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-706d540d14.rs",
+    "source": "accept/reference-whitespace-parsing-706d540d14.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13451,7 +13451,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-7a3fcd9a5b.rs",
+    "source": "accept/reference-whitespace-parsing-7a3fcd9a5b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13472,7 +13472,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-85ca38735c.rs",
+    "source": "accept/reference-whitespace-parsing-85ca38735c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13493,7 +13493,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-89fddf24fd.rs",
+    "source": "accept/reference-whitespace-parsing-89fddf24fd.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13514,7 +13514,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-96851bb4ab.rs",
+    "source": "accept/reference-whitespace-parsing-96851bb4ab.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13545,7 +13545,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-a622232cbf.rs",
+    "source": "accept/reference-whitespace-parsing-a622232cbf.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13576,7 +13576,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-a795f9d5d9.rs",
+    "source": "accept/reference-whitespace-parsing-a795f9d5d9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13607,7 +13607,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-b0d86c45bf.rs",
+    "source": "accept/reference-whitespace-parsing-b0d86c45bf.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13628,7 +13628,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-b4b4dba0cf.rs",
+    "source": "accept/reference-whitespace-parsing-b4b4dba0cf.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13649,7 +13649,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-ca2dc628d0.rs",
+    "source": "accept/reference-whitespace-parsing-ca2dc628d0.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13670,7 +13670,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-d91cf2829c.rs",
+    "source": "accept/reference-whitespace-parsing-d91cf2829c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13691,7 +13691,7 @@
     }
   },
   {
-    "source": "accept/reference-whitespace-parsing-f6d7d1e21e.rs",
+    "source": "accept/reference-whitespace-parsing-f6d7d1e21e.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13712,7 +13712,7 @@
     }
   },
   {
-    "source": "accept/reference_type-438a0c4bb6.rs",
+    "source": "accept/reference_type-438a0c4bb6.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13733,7 +13733,7 @@
     }
   },
   {
-    "source": "accept/reference_type-46fa818f4a.rs",
+    "source": "accept/reference_type-46fa818f4a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13754,7 +13754,7 @@
     }
   },
   {
-    "source": "accept/reference_type-ce7f85bbec.rs",
+    "source": "accept/reference_type-ce7f85bbec.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13775,7 +13775,7 @@
     }
   },
   {
-    "source": "accept/return_expr-b2f3d3d39f.rs",
+    "source": "accept/return_expr-b2f3d3d39f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13796,7 +13796,7 @@
     }
   },
   {
-    "source": "accept/safe_outside_of_extern-a63d9364d2.rs",
+    "source": "accept/safe_outside_of_extern-a63d9364d2.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13817,7 +13817,7 @@
     }
   },
   {
-    "source": "accept/stmt_bin_expr_ambiguity-9589f2bc6c.rs",
+    "source": "accept/stmt_bin_expr_ambiguity-9589f2bc6c.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13838,7 +13838,7 @@
     }
   },
   {
-    "source": "accept/stmt_bin_expr_ambiguity-e942c5355a.rs",
+    "source": "accept/stmt_bin_expr_ambiguity-e942c5355a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13859,7 +13859,7 @@
     }
   },
   {
-    "source": "accept/stmt_bin_expr_ambiguity-f88ca34a5a.rs",
+    "source": "accept/stmt_bin_expr_ambiguity-f88ca34a5a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13880,7 +13880,7 @@
     }
   },
   {
-    "source": "accept/struct_item-2cbbfcbe18.rs",
+    "source": "accept/struct_item-2cbbfcbe18.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13901,7 +13901,7 @@
     }
   },
   {
-    "source": "accept/tests-22fe837473.rs",
+    "source": "accept/tests-22fe837473.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13922,7 +13922,7 @@
     }
   },
   {
-    "source": "accept/tests-32947b9404.rs",
+    "source": "accept/tests-32947b9404.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13943,7 +13943,7 @@
     }
   },
   {
-    "source": "accept/tests-5f61cd7d01.rs",
+    "source": "accept/tests-5f61cd7d01.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13964,7 +13964,7 @@
     }
   },
   {
-    "source": "accept/tests-74ba93bff9.rs",
+    "source": "accept/tests-74ba93bff9.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -13985,7 +13985,7 @@
     }
   },
   {
-    "source": "accept/trait_alias-9e436e00d3.rs",
+    "source": "accept/trait_alias-9e436e00d3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14036,7 +14036,7 @@
     }
   },
   {
-    "source": "accept/trait_item_bounds-e9946a7965.rs",
+    "source": "accept/trait_item_bounds-e9946a7965.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14057,7 +14057,7 @@
     }
   },
   {
-    "source": "accept/trait_item_generic_params-0773e9818b.rs",
+    "source": "accept/trait_item_generic_params-0773e9818b.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14078,7 +14078,7 @@
     }
   },
   {
-    "source": "accept/tuple_expr-bc58fbf257.rs",
+    "source": "accept/tuple_expr-bc58fbf257.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14099,7 +14099,7 @@
     }
   },
   {
-    "source": "accept/type_param_bounds-fd9333ffff.rs",
+    "source": "accept/type_param_bounds-fd9333ffff.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14120,7 +14120,7 @@
     }
   },
   {
-    "source": "accept/typepathfn_with_coloncolon-55580f6884.rs",
+    "source": "accept/typepathfn_with_coloncolon-55580f6884.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14151,7 +14151,7 @@
     }
   },
   {
-    "source": "accept/typepathfn_with_coloncolon-704bdacc8f.rs",
+    "source": "accept/typepathfn_with_coloncolon-704bdacc8f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14172,7 +14172,7 @@
     }
   },
   {
-    "source": "accept/unary_expr-54cf3b3021.rs",
+    "source": "accept/unary_expr-54cf3b3021.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14193,7 +14193,7 @@
     }
   },
   {
-    "source": "accept/use_item-ce5a330e52.rs",
+    "source": "accept/use_item-ce5a330e52.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14214,7 +14214,7 @@
     }
   },
   {
-    "source": "accept/use_tree-b072f454db.rs",
+    "source": "accept/use_tree-b072f454db.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14235,7 +14235,7 @@
     }
   },
   {
-    "source": "accept/use_tree_abs_star-2e865ed09a.rs",
+    "source": "accept/use_tree_abs_star-2e865ed09a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14256,7 +14256,7 @@
     }
   },
   {
-    "source": "accept/use_tree_alias-2e4a9be09f.rs",
+    "source": "accept/use_tree_alias-2e4a9be09f.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14277,7 +14277,7 @@
     }
   },
   {
-    "source": "accept/use_tree_list-516c7f930d.rs",
+    "source": "accept/use_tree_list-516c7f930d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14298,7 +14298,7 @@
     }
   },
   {
-    "source": "accept/use_tree_path-078de5488d.rs",
+    "source": "accept/use_tree_path-078de5488d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14319,7 +14319,7 @@
     }
   },
   {
-    "source": "accept/use_tree_path_star-947e33fb67.rs",
+    "source": "accept/use_tree_path_star-947e33fb67.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14340,7 +14340,7 @@
     }
   },
   {
-    "source": "accept/use_tree_path_use_tree-24732f51b3.rs",
+    "source": "accept/use_tree_path_use_tree-24732f51b3.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14361,7 +14361,7 @@
     }
   },
   {
-    "source": "accept/use_tree_star-0934f1316a.rs",
+    "source": "accept/use_tree_star-0934f1316a.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14382,7 +14382,7 @@
     }
   },
   {
-    "source": "accept/where_clause-155b6febe7.rs",
+    "source": "accept/where_clause-155b6febe7.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14403,7 +14403,7 @@
     }
   },
   {
-    "source": "accept/while_expr-89dcf77051.rs",
+    "source": "accept/while_expr-89dcf77051.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14424,7 +14424,7 @@
     }
   },
   {
-    "source": "accept/while_expr-d085afe02d.rs",
+    "source": "accept/while_expr-d085afe02d.rx",
     "stage": "parse",
     "compilation_success": true,
     "metadata": {
@@ -14445,7 +14445,7 @@
     }
   },
   {
-    "source": "reject/0000_struct_field_missing_comma-9b86c624ce.rs",
+    "source": "reject/0000_struct_field_missing_comma-9b86c624ce.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14466,7 +14466,7 @@
     }
   },
   {
-    "source": "reject/0004_use_path_bad_segment-03626d5e7a.rs",
+    "source": "reject/0004_use_path_bad_segment-03626d5e7a.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14487,7 +14487,7 @@
     }
   },
   {
-    "source": "reject/0008_item_block_recovery-629c41e810.rs",
+    "source": "reject/0008_item_block_recovery-629c41e810.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14508,7 +14508,7 @@
     }
   },
   {
-    "source": "reject/0015_curly_in_params-fc2099daf8.rs",
+    "source": "reject/0015_curly_in_params-fc2099daf8.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14529,7 +14529,7 @@
     }
   },
   {
-    "source": "reject/0016_missing_semi-44262612fe.rs",
+    "source": "reject/0016_missing_semi-44262612fe.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14550,7 +14550,7 @@
     }
   },
   {
-    "source": "reject/0017_incomplete_binexpr-a660f27aa8.rs",
+    "source": "reject/0017_incomplete_binexpr-a660f27aa8.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14571,7 +14571,7 @@
     }
   },
   {
-    "source": "reject/0019_let_recover-e753c2602f.rs",
+    "source": "reject/0019_let_recover-e753c2602f.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14592,7 +14592,7 @@
     }
   },
   {
-    "source": "reject/0020_fn_recover-9186d6bcf0.rs",
+    "source": "reject/0020_fn_recover-9186d6bcf0.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14613,7 +14613,7 @@
     }
   },
   {
-    "source": "reject/0021_incomplete_param-6a8653ed1a.rs",
+    "source": "reject/0021_incomplete_param-6a8653ed1a.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14634,7 +14634,7 @@
     }
   },
   {
-    "source": "reject/0029_field_completion-b92a0b7d37.rs",
+    "source": "reject/0029_field_completion-b92a0b7d37.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14655,7 +14655,7 @@
     }
   },
   {
-    "source": "reject/0035_use_recover-e900d24d06.rs",
+    "source": "reject/0035_use_recover-e900d24d06.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14676,7 +14676,7 @@
     }
   },
   {
-    "source": "reject/0036_partial_use-6defdaf3ee.rs",
+    "source": "reject/0036_partial_use-6defdaf3ee.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14697,7 +14697,7 @@
     }
   },
   {
-    "source": "reject/arg_list_recovery-8f5fa1a529.rs",
+    "source": "reject/arg_list_recovery-8f5fa1a529.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14718,7 +14718,7 @@
     }
   },
   {
-    "source": "reject/bad-if-statements-5b10c061d9.rs",
+    "source": "reject/bad-if-statements-5b10c061d9.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14739,7 +14739,7 @@
     }
   },
   {
-    "source": "reject/bad-let-as-field-9e462f3237.rs",
+    "source": "reject/bad-let-as-field-9e462f3237.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14760,7 +14760,7 @@
     }
   },
   {
-    "source": "reject/bad-value-ident-false-4249c85702.rs",
+    "source": "reject/bad-value-ident-false-4249c85702.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14781,7 +14781,7 @@
     }
   },
   {
-    "source": "reject/bad-value-ident-true-d275d47647.rs",
+    "source": "reject/bad-value-ident-true-d275d47647.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14802,7 +14802,7 @@
     }
   },
   {
-    "source": "reject/bare-struct-body-785a94cecd.rs",
+    "source": "reject/bare-struct-body-785a94cecd.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14823,7 +14823,7 @@
     }
   },
   {
-    "source": "reject/cast-angle-bracket-precedence-4f49f2b4d7.rs",
+    "source": "reject/cast-angle-bracket-precedence-4f49f2b4d7.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14844,7 +14844,7 @@
     }
   },
   {
-    "source": "reject/cast-angle-bracket-precedence-d2cd5c5294.rs",
+    "source": "reject/cast-angle-bracket-precedence-d2cd5c5294.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14865,7 +14865,7 @@
     }
   },
   {
-    "source": "reject/chained-comparison-suggestion-e78eeb3b49.rs",
+    "source": "reject/chained-comparison-suggestion-e78eeb3b49.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14886,7 +14886,7 @@
     }
   },
   {
-    "source": "reject/empty_param_slot-ac8f2f25d3.rs",
+    "source": "reject/empty_param_slot-ac8f2f25d3.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14907,7 +14907,7 @@
     }
   },
   {
-    "source": "reject/empty_segment-a9673f996f.rs",
+    "source": "reject/empty_segment-a9673f996f.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14928,7 +14928,7 @@
     }
   },
   {
-    "source": "reject/fn-colon-return-type-84f996fdae.rs",
+    "source": "reject/fn-colon-return-type-84f996fdae.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14949,7 +14949,7 @@
     }
   },
   {
-    "source": "reject/fn-no-semicolon-issue-124935-semi-after-item-d7ef4f8093.rs",
+    "source": "reject/fn-no-semicolon-issue-124935-semi-after-item-d7ef4f8093.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14970,7 +14970,7 @@
     }
   },
   {
-    "source": "reject/import-from-path-640b9f6be7.rs",
+    "source": "reject/import-from-path-640b9f6be7.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -14991,7 +14991,7 @@
     }
   },
   {
-    "source": "reject/import-glob-path-86f47da050.rs",
+    "source": "reject/import-glob-path-86f47da050.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15012,7 +15012,7 @@
     }
   },
   {
-    "source": "reject/integer-literal-start-ident-eee7dfbf7e.rs",
+    "source": "reject/integer-literal-start-ident-eee7dfbf7e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15033,7 +15033,7 @@
     }
   },
   {
-    "source": "reject/issue-101540-ab2c2fe7e9.rs",
+    "source": "reject/issue-101540-ab2c2fe7e9.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15054,7 +15054,7 @@
     }
   },
   {
-    "source": "reject/issue-10636-1-b197ea1345.rs",
+    "source": "reject/issue-10636-1-b197ea1345.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15075,7 +15075,7 @@
     }
   },
   {
-    "source": "reject/issue-107705-5abb8376dc.rs",
+    "source": "reject/issue-107705-5abb8376dc.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15096,7 +15096,7 @@
     }
   },
   {
-    "source": "reject/issue-108242-semicolon-recovery-50adc2d82a.rs",
+    "source": "reject/issue-108242-semicolon-recovery-50adc2d82a.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15117,7 +15117,7 @@
     }
   },
   {
-    "source": "reject/issue-111416-a639e5b139.rs",
+    "source": "reject/issue-111416-a639e5b139.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15138,7 +15138,7 @@
     }
   },
   {
-    "source": "reject/issue-113110-non-item-at-module-root-2cc52401eb.rs",
+    "source": "reject/issue-113110-non-item-at-module-root-2cc52401eb.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15159,7 +15159,7 @@
     }
   },
   {
-    "source": "reject/issue-13483-9c3c6ba407.rs",
+    "source": "reject/issue-13483-9c3c6ba407.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15180,7 +15180,7 @@
     }
   },
   {
-    "source": "reject/issue-17718-const-mut-28b6999f75.rs",
+    "source": "reject/issue-17718-const-mut-28b6999f75.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15201,7 +15201,7 @@
     }
   },
   {
-    "source": "reject/issue-1802-1-76deb291da.rs",
+    "source": "reject/issue-1802-1-76deb291da.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15222,7 +15222,7 @@
     }
   },
   {
-    "source": "reject/issue-24197-01314963a5.rs",
+    "source": "reject/issue-24197-01314963a5.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15243,7 +15243,7 @@
     }
   },
   {
-    "source": "reject/issue-24780-cca8b9a803.rs",
+    "source": "reject/issue-24780-cca8b9a803.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15264,7 +15264,7 @@
     }
   },
   {
-    "source": "reject/issue-31804-9c8e2fc81f.rs",
+    "source": "reject/issue-31804-9c8e2fc81f.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15285,7 +15285,7 @@
     }
   },
   {
-    "source": "reject/issue-33455-80ecd654cb.rs",
+    "source": "reject/issue-33455-80ecd654cb.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15306,7 +15306,7 @@
     }
   },
   {
-    "source": "reject/issue-39616-fc56f7ab0b.rs",
+    "source": "reject/issue-39616-fc56f7ab0b.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15327,7 +15327,7 @@
     }
   },
   {
-    "source": "reject/issue-58856-1-61c43820e4.rs",
+    "source": "reject/issue-58856-1-61c43820e4.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15348,7 +15348,7 @@
     }
   },
   {
-    "source": "reject/issue-61858-bf8745bf0e.rs",
+    "source": "reject/issue-61858-bf8745bf0e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15369,7 +15369,7 @@
     }
   },
   {
-    "source": "reject/issue-69259-af1e01936e.rs",
+    "source": "reject/issue-69259-af1e01936e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15390,7 +15390,7 @@
     }
   },
   {
-    "source": "reject/issue-70552-ascription-in-parens-after-call-3258e24a4f.rs",
+    "source": "reject/issue-70552-ascription-in-parens-after-call-3258e24a4f.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15411,7 +15411,7 @@
     }
   },
   {
-    "source": "reject/issue-91421-0a5b51291b.rs",
+    "source": "reject/issue-91421-0a5b51291b.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15432,7 +15432,7 @@
     }
   },
   {
-    "source": "reject/keyword-abstract-4adb0515d7.rs",
+    "source": "reject/keyword-abstract-4adb0515d7.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15453,7 +15453,7 @@
     }
   },
   {
-    "source": "reject/keyword-final-c46d353fa9.rs",
+    "source": "reject/keyword-final-c46d353fa9.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15474,7 +15474,7 @@
     }
   },
   {
-    "source": "reject/keyword-override-cfd5d0251e.rs",
+    "source": "reject/keyword-override-cfd5d0251e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15495,7 +15495,7 @@
     }
   },
   {
-    "source": "reject/keyword-typeof-bdc7c11327.rs",
+    "source": "reject/keyword-typeof-bdc7c11327.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15516,7 +15516,7 @@
     }
   },
   {
-    "source": "reject/keywords-followed-by-double-colon-aae2068d3e.rs",
+    "source": "reject/keywords-followed-by-double-colon-aae2068d3e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15537,7 +15537,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-binary-literal-1e2599e257.rs",
+    "source": "reject/lex-bad-binary-literal-1e2599e257.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15558,7 +15558,7 @@
     }
   },
   {
-    "source": "reject/lex-bad-octal-literal-f112e2712b.rs",
+    "source": "reject/lex-bad-octal-literal-f112e2712b.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15579,7 +15579,7 @@
     }
   },
   {
-    "source": "reject/missing-fn-issue-125446-1c2661fba6.rs",
+    "source": "reject/missing-fn-issue-125446-1c2661fba6.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15600,7 +15600,7 @@
     }
   },
   {
-    "source": "reject/missing-fn-issue-65381-1-624824aa8f.rs",
+    "source": "reject/missing-fn-issue-65381-1-624824aa8f.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15621,7 +15621,7 @@
     }
   },
   {
-    "source": "reject/missing-fn-issue-65381-2-a6efddf0f6.rs",
+    "source": "reject/missing-fn-issue-65381-2-a6efddf0f6.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15642,7 +15642,7 @@
     }
   },
   {
-    "source": "reject/missing-main-issue-124935-semi-after-item-c2ef277759.rs",
+    "source": "reject/missing-main-issue-124935-semi-after-item-c2ef277759.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15663,7 +15663,7 @@
     }
   },
   {
-    "source": "reject/missing_const_type-cb58d0cce2.rs",
+    "source": "reject/missing_const_type-cb58d0cce2.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15684,7 +15684,7 @@
     }
   },
   {
-    "source": "reject/missing_fn_param_type-dce59b837c.rs",
+    "source": "reject/missing_fn_param_type-dce59b837c.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15705,7 +15705,7 @@
     }
   },
   {
-    "source": "reject/multiline-comment-line-tracking-354df02557.rs",
+    "source": "reject/multiline-comment-line-tracking-354df02557.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15726,7 +15726,7 @@
     }
   },
   {
-    "source": "reject/old-suffixes-are-really-forbidden-9dac151a4e.rs",
+    "source": "reject/old-suffixes-are-really-forbidden-9dac151a4e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15747,7 +15747,7 @@
     }
   },
   {
-    "source": "reject/omitted-arg-in-item-fn-a9f92c0371.rs",
+    "source": "reject/omitted-arg-in-item-fn-a9f92c0371.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15768,7 +15768,7 @@
     }
   },
   {
-    "source": "reject/parse-error-correct-1faa18faa4.rs",
+    "source": "reject/parse-error-correct-1faa18faa4.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15789,7 +15789,7 @@
     }
   },
   {
-    "source": "reject/path_item_without_excl-a8b0e96f99.rs",
+    "source": "reject/path_item_without_excl-a8b0e96f99.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15810,7 +15810,7 @@
     }
   },
   {
-    "source": "reject/postfix_dot_expr_ambiguity-ffc343d281.rs",
+    "source": "reject/postfix_dot_expr_ambiguity-ffc343d281.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15831,7 +15831,7 @@
     }
   },
   {
-    "source": "reject/removed-syntax-field-let-e8d22509bd.rs",
+    "source": "reject/removed-syntax-field-let-e8d22509bd.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15852,7 +15852,7 @@
     }
   },
   {
-    "source": "reject/removed-syntax-field-semicolon-eafd8386bc.rs",
+    "source": "reject/removed-syntax-field-semicolon-eafd8386bc.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15873,7 +15873,7 @@
     }
   },
   {
-    "source": "reject/require-parens-for-chained-comparison-70be0b38f3.rs",
+    "source": "reject/require-parens-for-chained-comparison-70be0b38f3.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15894,7 +15894,7 @@
     }
   },
   {
-    "source": "reject/require-parens-for-chained-comparison-7996296ab0.rs",
+    "source": "reject/require-parens-for-chained-comparison-7996296ab0.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15915,7 +15915,7 @@
     }
   },
   {
-    "source": "reject/require-parens-for-chained-comparison-c343f3a591.rs",
+    "source": "reject/require-parens-for-chained-comparison-c343f3a591.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15936,7 +15936,7 @@
     }
   },
   {
-    "source": "reject/suggest-semi-in-array-c1e680755a.rs",
+    "source": "reject/suggest-semi-in-array-c1e680755a.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15957,7 +15957,7 @@
     }
   },
   {
-    "source": "reject/type-parameters-in-field-exprs-1bdf11cf66.rs",
+    "source": "reject/type-parameters-in-field-exprs-1bdf11cf66.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15978,7 +15978,7 @@
     }
   },
   {
-    "source": "reject/unmatched-delimiter-at-end-of-file-a532c78569.rs",
+    "source": "reject/unmatched-delimiter-at-end-of-file-a532c78569.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -15999,7 +15999,7 @@
     }
   },
   {
-    "source": "reject/use-as-where-use-ends-with-mod-sep-a70a43ec16.rs",
+    "source": "reject/use-as-where-use-ends-with-mod-sep-a70a43ec16.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -16020,7 +16020,7 @@
     }
   },
   {
-    "source": "reject/use-colon-as-mod-sep-b6ce7d650c.rs",
+    "source": "reject/use-colon-as-mod-sep-b6ce7d650c.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
@@ -16041,7 +16041,7 @@
     }
   },
   {
-    "source": "reject/use-ends-with-mod-sep-e6b89d220e.rs",
+    "source": "reject/use-ends-with-mod-sep-e6b89d220e.rx",
     "stage": "parse",
     "compilation_success": false,
     "metadata": {
