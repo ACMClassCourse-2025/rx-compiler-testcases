@@ -28,17 +28,17 @@ impl Counter {
 fn main() {
     let mut c = Counter::new();
     c.add(4);
-    printlnInt(c.value());
+    println_i32(c.value());
     let d = c.changed();
-    printlnInt(c.value);
-    printlnInt(d.owned());
+    println_i32(c.value);
+    println_i32(d.owned());
     Counter::add(&mut c, 2);
-    printlnInt(Counter::value(&c));
+    println_i32(Counter::value(&c));
     let mut b = Box::<Counter>::new(c);
     b.add(1);
-    printlnInt(b.value());
+    println_i32(b.value());
     let r = &mut b;
     r.add(2);
-    printlnInt(r.value());
-    printlnInt(Counter::new().changed().value());
+    println_i32(r.value());
+    println_i32(Counter::new().changed().value());
 }

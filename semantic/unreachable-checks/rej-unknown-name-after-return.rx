@@ -2,5 +2,5 @@ use rx::core::*;
 
 fn main() {
     return;
-    printlnInt(missing);
+    println_i32(missing);
 }

@@ -8,14 +8,14 @@ fn write(x: &mut i32) {
 }
 fn main() {
     let mut b = Box::<Box<i32>>::new(Box::<i32>::new(7));
-    printlnInt(read(&b));
+    println_i32(read(&b));
     write(&mut b);
-    printlnInt(read(&b));
+    println_i32(read(&b));
     let r: &i32 = &b;
-    printlnInt(*r);
+    println_i32(*r);
     let mut x = 3;
     let p = &mut x;
-    printlnInt(read(p));
+    println_i32(read(p));
     write(p);
-    printlnInt(*p);
+    println_i32(*p);
 }

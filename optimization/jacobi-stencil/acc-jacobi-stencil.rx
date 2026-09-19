@@ -18,9 +18,9 @@ fn checksum(a: &Vec<i32>) -> i32 {
 }
 
 fn main() {
-    let n = getInt() as usize;
-    let rounds = getInt();
-    let mut seed = getInt() as u32;
+    let n = get_i32() as usize;
+    let rounds = get_i32();
+    let mut seed = get_i32() as u32;
     let mut a = Vec::<i32>::new();
     let mut b = Vec::<i32>::new();
     let mut p = 0usize;
@@ -50,6 +50,6 @@ fn main() {
         b = old;
         t += 1;
     }
-    printlnInt(checksum(&a));
-    printlnInt(a[(n / 2usize) * n + n / 2usize]);
+    println_i32(checksum(&a));
+    println_i32(a[(n / 2usize) * n + n / 2usize]);
 }

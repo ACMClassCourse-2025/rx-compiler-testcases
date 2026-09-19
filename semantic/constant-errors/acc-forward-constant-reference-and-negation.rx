@@ -3,5 +3,5 @@ use rx::core::*;
 const B: i32 = -A;
 const A: i32 = 3;
 fn main() {
-    printlnInt(B);
+    println_i32(B);
 }

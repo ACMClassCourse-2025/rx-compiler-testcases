@@ -3,7 +3,7 @@
     "source": "acc-no-separators-added-by-printint-signed-minimum-and-maximum-i-o.rx",
     "stage": "semantic",
     "compilation_success": true,
-    "description": "No separators added by printInt; signed minimum and maximum I/O."
+    "description": "No separators added by print_i32; signed minimum and maximum I/O."
   },
   {
     "source": "acc-normal-early-main-return.rx",
@@ -15,7 +15,7 @@
     "source": "rej-getint-has-no-arguments.rx",
     "stage": "semantic",
     "compilation_success": false,
-    "description": "getInt has no arguments."
+    "description": "get_i32 has no arguments."
   },
   {
     "source": "rej-missing-builtin-argument.rx",

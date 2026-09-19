@@ -14,22 +14,22 @@ fn main() {
     let mut a = Box::<i32>::new(7);
     let mut b = Box::<i32>::clone(&a);
     *b = 9;
-    printlnInt(*a);
-    printlnInt(*b);
+    println_i32(*a);
+    println_i32(*b);
     *a = 3;
     let wrapped = Box::<Parts>::new(Parts { left: a, right: b });
     let parts = *wrapped;
     let left = parts.left;
     let right = parts.right;
-    printlnInt(*left + *right);
+    println_i32(*left + *right);
     let p = Parts {
         left: left,
         right: right,
     };
-    printlnInt(*choose(p, false));
+    println_i32(*choose(p, false));
     let mut moved = Box::<i32>::new(1);
     let old = moved;
     moved = Box::<i32>::new(8);
-    printlnInt(*old);
-    printlnInt(*moved);
+    println_i32(*old);
+    println_i32(*moved);
 }

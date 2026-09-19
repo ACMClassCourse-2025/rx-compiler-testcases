@@ -12,13 +12,13 @@ fn main() {
     x ^= 3;
     x <<= &2u32;
     x >>= 1usize;
-    printlnInt(x);
+    println_i32(x);
     let p = &mut x;
     *p += 5;
-    printlnInt(*p);
+    println_i32(*p);
     let mut b = true;
     b &= &false;
     b |= true;
     b ^= &true;
-    printlnInt(b as i32);
+    println_i32(b as i32);
 }

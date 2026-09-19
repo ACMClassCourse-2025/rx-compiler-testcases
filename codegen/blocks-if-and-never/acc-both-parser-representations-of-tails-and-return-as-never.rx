@@ -11,8 +11,8 @@ fn f(x: i32) -> i32 {
     { v * 2 }
 }
 fn main() {
-    let x = getInt();
-    printlnInt(f(x));
+    let x = get_i32();
+    println_i32(f(x));
     if true {
     } else {
     }
@@ -23,5 +23,5 @@ fn main() {
         20
     };
     let y = if true { 10 } else { 20 } - 1;
-    printlnInt(y);
+    println_i32(y);
 }

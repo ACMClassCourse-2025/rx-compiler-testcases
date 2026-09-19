@@ -8,7 +8,7 @@ struct S {
     y: [i32; 2],
 }
 fn mark(x: i32) -> i32 {
-    printlnInt(x);
+    println_i32(x);
     x
 }
 fn change(mut s: S) -> S {
@@ -24,12 +24,12 @@ fn main() {
         small: false,
     };
     let mut t = change(s);
-    printlnInt(s.x);
-    printlnInt(s.y[1]);
-    printlnInt(t.x);
-    printlnInt(t.y[1]);
+    println_i32(s.x);
+    println_i32(s.y[1]);
+    println_i32(t.x);
+    println_i32(t.y[1]);
     t = s;
-    printlnInt(t.x);
-    printlnInt(t.tail as i32);
-    printlnInt(t.small as i32);
+    println_i32(t.x);
+    println_i32(t.tail as i32);
+    println_i32(t.small as i32);
 }

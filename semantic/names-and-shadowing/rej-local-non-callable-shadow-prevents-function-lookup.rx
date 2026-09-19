@@ -5,5 +5,5 @@ fn f() -> i32 {
 }
 fn main() {
     let f = 2;
-    printlnInt(f());
+    println_i32(f());
 }

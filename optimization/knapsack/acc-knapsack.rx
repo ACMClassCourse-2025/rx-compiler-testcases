@@ -18,9 +18,9 @@ fn checksum(a: &Vec<i32>) -> i32 {
 }
 
 fn main() {
-    let items = getInt() as usize;
-    let capacity = getInt() as usize;
-    let mut seed = getInt() as u32;
+    let items = get_i32() as usize;
+    let capacity = get_i32() as usize;
+    let mut seed = get_i32() as u32;
     let mut dp = Vec::<i32>::new();
     let mut j = 0usize;
     while j <= capacity {
@@ -41,6 +41,6 @@ fn main() {
         }
         i += 1usize;
     }
-    printlnInt(checksum(&dp));
-    printlnInt(dp[capacity]);
+    println_i32(checksum(&dp));
+    println_i32(dp[capacity]);
 }

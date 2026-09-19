@@ -25,11 +25,11 @@ fn main() {
         }
         break sum;
     };
-    printlnInt(i);
-    printlnInt(v);
+    println_i32(i);
+    println_i32(v);
     while loop {
         break false;
     } {
-        printlnInt(999);
+        println_i32(999);
     }
 }

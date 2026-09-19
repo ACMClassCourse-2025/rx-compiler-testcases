@@ -10,36 +10,36 @@ impl S {
     }
 }
 fn mark(n: i32) -> i32 {
-    printlnInt(n);
+    println_i32(n);
     n
 }
 fn add(a: i32, b: i32) -> i32 {
     a + b
 }
 fn dest(p: &mut i32) -> &mut i32 {
-    printlnInt(20);
+    println_i32(20);
     p
 }
 fn arr() -> [i32; 2] {
-    printlnInt(30);
+    println_i32(30);
     [8, 9]
 }
 fn idx() -> usize {
-    printlnInt(31);
+    println_i32(31);
     1
 }
 fn make() -> S {
-    printlnInt(40);
+    println_i32(40);
     S { x: 5 }
 }
 fn main() {
-    printlnInt(add(mark(1), mark(2)));
-    printlnInt(mark(3) * mark(4));
+    println_i32(add(mark(1), mark(2)));
+    println_i32(mark(3) * mark(4));
     let mut x = 0;
     *dest(&mut x) = mark(10);
-    printlnInt(x);
-    printlnInt(arr()[idx()]);
+    println_i32(x);
+    println_i32(arr()[idx()]);
     make().x = mark(41);
-    printlnInt(make().add(2));
-    printlnInt(*&make().x);
+    println_i32(make().add(2));
+    println_i32(*&make().x);
 }

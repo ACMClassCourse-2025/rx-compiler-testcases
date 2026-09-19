@@ -1,7 +1,7 @@
 use rx::core::*;
 
 fn element() -> i32 {
-    printlnInt(6);
+    println_i32(6);
     4
 }
 fn edit(mut a: [i32; 3]) -> [i32; 3] {
@@ -12,13 +12,13 @@ fn main() {
     let a = [element(); 3];
     let mut b = edit(a);
     b[2] = 9;
-    printlnInt(a[1]);
-    printlnInt(b[1]);
-    printlnInt(b[2]);
+    println_i32(a[1]);
+    println_i32(b[1]);
+    println_i32(b[2]);
     let mut grid = [[1, 2], [3, 4]];
     grid[1][0] = 8;
-    printlnInt(grid[1][0]);
-    printlnInt(grid.len() as i32);
+    println_i32(grid[1][0]);
+    println_i32(grid.len() as i32);
     let lone = [Box::<i32>::new(5); 1];
-    printlnInt(*lone[0]);
+    println_i32(*lone[0]);
 }

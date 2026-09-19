@@ -6144,9 +6144,9 @@ fn step_95(mut x: u32, key: u32) -> u32 {
     x
 }
 fn main() {
-    let rounds = getInt();
-    let mut x = getInt() as u32;
-    let key = getInt() as u32;
+    let rounds = get_i32();
+    let mut x = get_i32() as u32;
+    let key = get_i32() as u32;
     let mut i = 0;
     while i < rounds {
         x = step_0(x, key + (i as u32));
@@ -6247,5 +6247,5 @@ fn main() {
         x = step_95(x, key + (i as u32));
         i += 1;
     }
-    printlnInt(x as i32);
+    println_i32(x as i32);
 }

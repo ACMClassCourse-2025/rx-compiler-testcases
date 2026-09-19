@@ -4,5 +4,5 @@ fn main() {
     {
         1
     }
-    printlnInt(2);
+    println_i32(2);
 }

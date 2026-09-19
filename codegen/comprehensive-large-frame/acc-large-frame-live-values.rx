@@ -1,9 +1,9 @@
 use rx::core::*;
 
 fn main() {
-    let seed = getInt();
+    let seed = get_i32();
     let mut frame = [0i32; 4096];
-    let index = (getInt() as usize) % 4096usize;
+    let index = (get_i32() as usize) % 4096usize;
     let x0 = seed + 0;
     let x1 = seed + 1;
     let x2 = seed + 2;
@@ -196,7 +196,7 @@ fn main() {
     let x189 = seed + 189;
     let x190 = seed + 190;
     let x191 = seed + 191;
-    printlnInt(seed);
+    println_i32(seed);
     let mut sum = 0;
     if seed > 0 {
         frame[(0usize * 19usize) % 4096usize] = x0;
@@ -584,11 +584,11 @@ fn main() {
         frame[(191usize * 19usize) % 4096usize] = x191;
         sum += frame[(191usize * 19usize) % 4096usize];
     }
-    printlnInt(sum);
-    printlnInt(frame[index]);
-    printlnInt(x0);
-    printlnInt(x31);
-    printlnInt(x63);
-    printlnInt(x127);
-    printlnInt(x191);
+    println_i32(sum);
+    println_i32(frame[index]);
+    println_i32(x0);
+    println_i32(x31);
+    println_i32(x63);
+    println_i32(x127);
+    println_i32(x191);
 }

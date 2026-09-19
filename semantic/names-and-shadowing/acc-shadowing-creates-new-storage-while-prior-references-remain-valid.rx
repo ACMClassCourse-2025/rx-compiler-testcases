@@ -6,13 +6,13 @@ fn main() {
     let n = n + 4;
     {
         let n = true;
-        printlnInt(n as i32);
+        println_i32(n as i32);
     }
-    printlnInt(n);
-    printlnInt(*r);
+    println_i32(n);
+    println_i32(*r);
     let s = Same { x: Same() };
-    printlnInt(s.x);
-    printlnInt(later(4));
+    println_i32(s.x);
+    println_i32(later(4));
 }
 struct Same {
     x: i32,

@@ -41,7 +41,7 @@ impl Machine {
     }
 }
 fn main() {
-    let n = getInt() as usize;
+    let n = get_i32() as usize;
     let mut m = Machine {
         code: Vec::<Instruction>::new(),
         stack: Vec::<i32>::new(),
@@ -49,12 +49,12 @@ fn main() {
     };
     let mut i = 0usize;
     while i < n {
-        let op = getInt();
-        let arg = getInt();
+        let op = get_i32();
+        let arg = get_i32();
         m.code.push(Instruction { op: op, arg: arg });
         i += 1usize;
     }
-    printlnInt(m.execute());
-    printlnInt(m.pc as i32);
-    printlnInt(m.stack.len() as i32);
+    println_i32(m.execute());
+    println_i32(m.pc as i32);
+    println_i32(m.stack.len() as i32);
 }

@@ -31,17 +31,17 @@ fn sort(a: &mut Vec<i32>, lo: usize, hi: usize) {
     }
 }
 fn main() {
-    let n = getInt() as usize;
+    let n = get_i32() as usize;
     let mut a = Vec::<i32>::new();
     let mut i = 0usize;
     while i < n {
-        a.push(getInt());
+        a.push(get_i32());
         i += 1usize;
     }
     sort(&mut a, 0, n);
     i = 0usize;
     while i < n {
-        printlnInt(a[i]);
+        println_i32(a[i]);
         i += 1usize;
     }
 }

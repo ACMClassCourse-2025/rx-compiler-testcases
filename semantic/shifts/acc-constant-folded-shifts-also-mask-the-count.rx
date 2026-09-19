@@ -1,7 +1,7 @@
 use rx::core::*;
 
 fn main() {
-    printlnInt(3i32 << 33u32);
-    printlnInt(-8i32 >> 34usize);
-    printlnInt((0x8000_0000u32 >> 33isize) as i32);
+    println_i32(3i32 << 33u32);
+    println_i32(-8i32 >> 34usize);
+    println_i32((0x8000_0000u32 >> 33isize) as i32);
 }

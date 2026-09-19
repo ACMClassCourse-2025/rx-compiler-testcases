@@ -1,7 +1,7 @@
 use rx::core::*;
 
 fn main() {
-    let n = getInt() as usize;
+    let n = get_i32() as usize;
     let mut prime = Vec::<bool>::new();
     let mut i = 0usize;
     while i <= n {
@@ -33,7 +33,7 @@ fn main() {
         }
         i += 1usize;
     }
-    printlnInt(count);
-    printlnInt(sum);
-    printlnInt(hash as i32);
+    println_i32(count);
+    println_i32(sum);
+    println_i32(hash as i32);
 }

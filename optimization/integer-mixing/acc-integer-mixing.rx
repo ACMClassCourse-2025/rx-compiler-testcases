@@ -9,9 +9,9 @@ fn mix(mut x: u32, key: u32) -> u32 {
     x + key
 }
 fn main() {
-    let rounds = getInt();
-    let mut a = getInt() as u32;
-    let mut b = getInt() as u32;
+    let rounds = get_i32();
+    let mut a = get_i32() as u32;
+    let mut b = get_i32() as u32;
     let mut i = 0;
     while i < rounds {
         a = mix(a, b);
@@ -21,6 +21,6 @@ fn main() {
         }
         i += 1;
     }
-    printlnInt(a as i32);
-    printlnInt(b as i32);
+    println_i32(a as i32);
+    println_i32(b as i32);
 }

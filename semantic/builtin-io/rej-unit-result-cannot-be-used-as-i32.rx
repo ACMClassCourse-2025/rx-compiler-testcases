@@ -1,5 +1,5 @@
 use rx::core::*;
 
 fn main() {
-    let x: i32 = printlnInt(1);
+    let x: i32 = println_i32(1);
 }

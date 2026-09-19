@@ -5,5 +5,5 @@ struct S {
 }
 fn main() {
     let s = S { x: 1 };
-    printlnInt(s.y);
+    println_i32(s.y);
 }

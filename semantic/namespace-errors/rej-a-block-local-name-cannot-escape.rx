@@ -4,5 +4,5 @@ fn main() {
     {
         let x = 1;
     }
-    printlnInt(x);
+    println_i32(x);
 }

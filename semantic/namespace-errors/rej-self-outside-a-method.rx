@@ -1,5 +1,5 @@
 use rx::core::*;
 
 fn main() {
-    printlnInt(self);
+    println_i32(self);
 }

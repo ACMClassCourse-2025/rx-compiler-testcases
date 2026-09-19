@@ -41,18 +41,18 @@ fn build(depth: i32, seed: i32) -> Node {
     n
 }
 fn main() {
-    let depth = getInt();
-    let seed = getInt();
+    let depth = get_i32();
+    let seed = get_i32();
     let root = build(depth, seed);
     let mut copy = Node::clone(&root);
-    printlnInt((root == copy) as i32);
+    println_i32((root == copy) as i32);
     copy.alter(1);
-    printlnInt(root.total());
-    printlnInt(copy.total());
-    printlnInt((root != copy) as i32);
+    println_i32(root.total());
+    println_i32(copy.total());
+    println_i32((root != copy) as i32);
     if copy.children.len() > 0usize {
         let removed = copy.children.remove(0);
-        printlnInt(removed.total());
-        printlnInt(copy.total());
+        println_i32(removed.total());
+        println_i32(copy.total());
     }
 }

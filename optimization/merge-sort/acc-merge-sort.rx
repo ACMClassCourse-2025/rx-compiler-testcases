@@ -44,8 +44,8 @@ fn merge(a: &mut Vec<i32>, scratch: &mut Vec<i32>, lo: usize, hi: usize) {
     }
 }
 fn main() {
-    let n = getInt() as usize;
-    let mut seed = getInt() as u32;
+    let n = get_i32() as usize;
+    let mut seed = get_i32() as u32;
     let mut a = Vec::<i32>::new();
     let mut scratch = Vec::<i32>::new();
     let mut i = 0usize;
@@ -55,7 +55,7 @@ fn main() {
         i += 1usize;
     }
     merge(&mut a, &mut scratch, 0, n);
-    printlnInt(checksum(&a));
-    printlnInt(a[0]);
-    printlnInt(a[n - 1usize]);
+    println_i32(checksum(&a));
+    println_i32(a[0]);
+    println_i32(a[n - 1usize]);
 }

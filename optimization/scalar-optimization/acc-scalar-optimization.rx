@@ -28,9 +28,9 @@ fn update(mut s: State, k: i32, bias: i32) -> State {
     s
 }
 fn main() {
-    let rounds = getInt();
-    let seed = getInt();
-    let bias = getInt();
+    let rounds = get_i32();
+    let seed = get_i32();
+    let bias = get_i32();
     let mut s = State {
         x: seed,
         y: seed + 1,
@@ -42,8 +42,8 @@ fn main() {
         s = update(s, i, bias);
         i += 1;
     }
-    printlnInt(s.x);
-    printlnInt(s.y);
-    printlnInt(s.z);
-    printlnInt(s.flag as i32);
+    println_i32(s.x);
+    println_i32(s.y);
+    println_i32(s.z);
+    println_i32(s.flag as i32);
 }

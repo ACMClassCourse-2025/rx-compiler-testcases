@@ -29,20 +29,20 @@ fn visit(n: &mut Node, salt: i32) -> i32 {
     sum
 }
 fn main() {
-    let depth = getInt();
-    let rounds = getInt();
-    let seed = getInt();
+    let depth = get_i32();
+    let rounds = get_i32();
+    let seed = get_i32();
     let original = build(depth, seed);
     let mut root = original.clone();
-    printlnInt((root == original) as i32);
+    println_i32((root == original) as i32);
     let mut i = 0;
     let mut hash = 0i32;
     while i < rounds {
         hash = hash * 31 + visit(&mut root, i);
         i += 1;
     }
-    printlnInt(hash);
-    printlnInt(root.value);
-    printlnInt(original.value);
-    printlnInt((root == original) as i32);
+    println_i32(hash);
+    println_i32(root.value);
+    println_i32(original.value);
+    println_i32((root == original) as i32);
 }

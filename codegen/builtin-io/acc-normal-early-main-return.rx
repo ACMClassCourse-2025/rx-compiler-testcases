@@ -5,7 +5,7 @@ fn unit_result() -> () {
 }
 fn main() -> () {
     unit_result();
-    printlnInt(1);
+    println_i32(1);
     return ();
-    printlnInt(99);
+    println_i32(99);
 }

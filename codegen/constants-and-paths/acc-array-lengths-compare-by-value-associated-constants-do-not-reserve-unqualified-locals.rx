@@ -13,9 +13,9 @@ const LATER: i32 = 7;
 fn main() {
     let mut a: [i32; COUNT] = [VALUE; Config::N];
     a[1] = Config::NEG;
-    printlnInt(a[0]);
-    printlnInt(a[1]);
-    printlnInt(a.len() as i32);
+    println_i32(a[0]);
+    println_i32(a[1]);
+    println_i32(a.len() as i32);
     let N = 9;
-    printlnInt(N);
+    println_i32(N);
 }

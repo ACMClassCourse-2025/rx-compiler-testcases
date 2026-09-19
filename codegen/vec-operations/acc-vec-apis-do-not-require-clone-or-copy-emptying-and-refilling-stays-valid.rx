@@ -12,13 +12,13 @@ fn main() {
         value: Box::<i32>::new(7),
     });
     let taken = v.remove(0);
-    printlnInt(*taken.value);
-    printlnInt(*v[0].value);
+    println_i32(*taken.value);
+    println_i32(*v[0].value);
     v[0] = Item {
         value: Box::<i32>::new(9),
     };
-    printlnInt(*v.remove(0).value);
-    printlnInt(v.is_empty() as i32);
+    println_i32(*v.remove(0).value);
+    println_i32(v.is_empty() as i32);
     v.push(taken);
-    printlnInt(*v[0].value);
+    println_i32(*v[0].value);
 }

@@ -8,8 +8,8 @@ struct Graph {
     edges: Vec<Vec<Edge>>,
 }
 fn main() {
-    let n = getInt() as usize;
-    let m = getInt() as usize;
+    let n = get_i32() as usize;
+    let m = get_i32() as usize;
     let mut graph = Graph {
         edges: Vec::<Vec<Edge>>::new(),
     };
@@ -24,9 +24,9 @@ fn main() {
     }
     i = 0usize;
     while i < m {
-        let from = getInt() as usize;
-        let to = getInt() as usize;
-        let w = getInt();
+        let from = get_i32() as usize;
+        let to = get_i32() as usize;
+        let w = get_i32();
         graph.edges[from].push(Edge { to: to, weight: w });
         i += 1usize;
     }
@@ -56,7 +56,7 @@ fn main() {
     }
     i = 0usize;
     while i < n {
-        printlnInt(distance[i]);
+        println_i32(distance[i]);
         i += 1usize;
     }
 }

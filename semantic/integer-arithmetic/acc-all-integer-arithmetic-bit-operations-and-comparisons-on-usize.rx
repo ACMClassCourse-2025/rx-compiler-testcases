@@ -1,21 +1,21 @@
 use rx::core::*;
 
 fn main() {
-    let a = getInt() as usize;
-    let b = getInt() as usize;
-    printlnInt((a + b) as i32);
-    printlnInt((a - b) as i32);
-    printlnInt((a * b) as i32);
-    printlnInt((a / b) as i32);
-    printlnInt((a % b) as i32);
-    printlnInt((a & b) as i32);
-    printlnInt((a | b) as i32);
-    printlnInt((a ^ b) as i32);
-    printlnInt((!a) as i32);
-    printlnInt((a < b) as i32);
-    printlnInt((a <= b) as i32);
-    printlnInt((a > b) as i32);
-    printlnInt((a >= b) as i32);
-    printlnInt((a == b) as i32);
-    printlnInt((a != b) as i32);
+    let a = get_i32() as usize;
+    let b = get_i32() as usize;
+    println_i32((a + b) as i32);
+    println_i32((a - b) as i32);
+    println_i32((a * b) as i32);
+    println_i32((a / b) as i32);
+    println_i32((a % b) as i32);
+    println_i32((a & b) as i32);
+    println_i32((a | b) as i32);
+    println_i32((a ^ b) as i32);
+    println_i32((!a) as i32);
+    println_i32((a < b) as i32);
+    println_i32((a <= b) as i32);
+    println_i32((a > b) as i32);
+    println_i32((a >= b) as i32);
+    println_i32((a == b) as i32);
+    println_i32((a != b) as i32);
 }
