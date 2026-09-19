@@ -56,7 +56,8 @@
             "lex",
             "parse",
             "semantic",
-            "codegen"
+            "codegen",
+            "optimization"
           ]
         },
         "compilation_success": {
@@ -69,7 +70,7 @@
           "items": {
             "$ref": "#/$defs/io"
           },
-          "description": "Paired runtime fixtures. Required for codegen cases, which must compile successfully. Optional and unused for lex, parse, and semantic."
+          "description": "Paired runtime fixtures. Required for codegen and optimization cases, which must compile successfully. Optional and unused for lex, parse, and semantic."
         },
         "description": {
           "type": "string",
@@ -84,7 +85,10 @@
       "if": {
         "properties": {
           "stage": {
-            "const": "codegen"
+            "enum": [
+              "codegen",
+              "optimization"
+            ]
           }
         },
         "required": [

@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-jacobi-stencil.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Repeated integer five-point stencil with alternating owned buffers and unchanged boundaries.",
     "io": [

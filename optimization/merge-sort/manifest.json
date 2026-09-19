@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-merge-sort.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Recursive merge sort of runtime-generated signed integers with a reused scratch buffer.",
     "io": [

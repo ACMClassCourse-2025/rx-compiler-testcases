@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-recursive-heap-tree.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Deep cloning and repeated recursive mutation of a finite binary tree with nested owned containers.",
     "io": [

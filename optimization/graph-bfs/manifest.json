@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-graph-bfs.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Repeated breadth-first searches over an irregular graph with reusable queues and visited state.",
     "io": [

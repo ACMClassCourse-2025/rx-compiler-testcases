@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-knapsack.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Zero-one knapsack dynamic programming with descending updates and loop-carried dependencies.",
     "io": [

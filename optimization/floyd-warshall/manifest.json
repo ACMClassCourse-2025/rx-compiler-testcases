@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-floyd-warshall.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "All-pairs shortest paths with loop-carried memory dependencies and conditional updates.",
     "io": [

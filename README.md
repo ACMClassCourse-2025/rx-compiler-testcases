@@ -6,18 +6,15 @@ Welcome to the Rx Compiler course! This repository contains the test cases for t
 
 - **`lexer/`** contains tokenization tests. `accept/` holds inputs that should
   lex successfully and `reject/` holds malformed inputs that should be rejected.
-  The suite manifest uses `stage: "lex"`.
 - **`parser/`** contains syntax tests with the same `accept/` and `reject/`
-  split. The suite manifest uses `stage: "parse"`.
+  split.
 - **`semantic/`** contains feature-oriented programs that are checked through
   semantic analysis. A manifest can contain both accepted and rejected
   programs, distinguished by `compilation_success`.
 - **`codegen/`** contains programs that must compile and run. Each runtime
   fixture supplies stdin and the expected stdout for one execution.
 - **`optimization/`** contains larger or optimization-sensitive runtime
-  workloads. These cases are organized separately for coverage, but their
-  manifests currently use `stage: "codegen"` and follow the same runtime
-  contract as `codegen/`.
+  workloads.
 
 ## Files in a test directory
 
@@ -61,13 +58,14 @@ Each entry contains:
 The fields are:
 
 - **`source`** — exactly one source file for the entry.
-- **`stage`** — one of `lex`, `parse`, `semantic`, or `codegen`.
+- **`stage`** — one of `lex`, `parse`, `semantic`, `codegen`, or
+  `optimization`.
 - **`compilation_success`** — whether the source is expected to pass that
   stage. A normal rejection is a valid negative result; a crash, signal, or
   timeout is not.
 - **`io`** — one or more `{ "input", "output" }` pairs. This is required for
-  `codegen` entries, which must compile successfully before their generated
-  program is run.
+  `codegen` and `optimization` entries, which must compile successfully before
+  their generated program is run.
 - **`description`** — an optional human-readable purpose or explanation for a
   case, especially a negative case.
 - **`metadata`** — optional authoring or provenance information. It can record

@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-matrix-multiply.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Dense integer matrix multiplication with strided loads and complete-result checksum.",
     "io": [

@@ -1,7 +1,7 @@
 [
   {
     "source": "acc-scalar-optimization.rx",
-    "stage": "codegen",
+    "stage": "optimization",
     "compilation_success": true,
     "description": "Aggregate scalar replacement, inlining, redundant expressions, dead computations and invariant arithmetic.",
     "io": [
