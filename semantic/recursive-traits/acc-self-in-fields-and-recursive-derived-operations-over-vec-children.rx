@@ -1,0 +1,14 @@
+#[derive(Clone, PartialEq, Eq)]
+struct Node { value: i32, children: Vec<Self> }
+fn leaf(x: i32) -> Node { Node { value: x, children: Vec::<Node>::new() } }
+fn sum(n: &Node) -> i32 {
+    let mut total = n.value; let mut i = 0usize;
+    while i < n.children.len() { total += sum(&n.children[i]); i += 1usize; } total
+}
+fn main() {
+    let mut root = leaf(1); let mut child = leaf(2); child.children.push(leaf(3));
+    root.children.push(child); root.children.push(leaf(4));
+    let mut copy = root.clone(); printlnInt((root == copy) as i32);
+    copy.children[0].children[0].value = 20;
+    printlnInt(sum(&root)); printlnInt(sum(&copy)); printlnInt((root != copy) as i32);
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "acc-large-control-flow.rx",
+    "stage": "codegen",
+    "compilation_success": true,
+    "description": "A generated 96-function program with 1,152 data-dependent branch diamonds and a live state chain.",
+    "io": [
+      {
+        "input": "acc-large-control-flow.smoke.in",
+        "output": "acc-large-control-flow.smoke.out"
+      },
+      {
+        "input": "acc-large-control-flow.large.in",
+        "output": "acc-large-control-flow.large.out"
+      },
+      {
+        "input": "acc-large-control-flow.large-variant.in",
+        "output": "acc-large-control-flow.large-variant.out"
+      }
+    ]
+  }
+]

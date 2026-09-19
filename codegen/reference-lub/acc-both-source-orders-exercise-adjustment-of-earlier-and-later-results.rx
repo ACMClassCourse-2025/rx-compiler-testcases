@@ -1,0 +1,3 @@
+fn main() {
+    let mut a = 4; let b = 9; let refs = [&mut a, &b]; printlnInt(*refs[0] + *refs[1]); let mut c = 5; let refs2 = [&b, &mut c]; printlnInt(*refs2[0] + *refs2[1]); let mut d = 6; let r = if true { &mut d } else { &b }; printlnInt(*r); let mut e = 7; let r2 = if false { &b } else { &mut e }; printlnInt(*r2); let mut f = 8; let r3 = loop { if true { break &b; } break &mut f; }; printlnInt(*r3);
+}

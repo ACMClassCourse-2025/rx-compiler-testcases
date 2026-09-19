@@ -1,0 +1,1 @@
+#[derive(Clone, Copy)] struct N { children: Vec<N> } fn main() {}

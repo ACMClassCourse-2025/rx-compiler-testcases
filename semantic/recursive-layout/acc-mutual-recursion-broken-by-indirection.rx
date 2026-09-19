@@ -1,0 +1,1 @@
+struct A { bs: Vec<B> } struct B { a: Box<A> } fn main() {}

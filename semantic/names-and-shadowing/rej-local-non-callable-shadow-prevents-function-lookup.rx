@@ -1,0 +1,1 @@
+fn f() -> i32 { 1 } fn main() { let f = 2; printlnInt(f()); }

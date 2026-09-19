@@ -1,0 +1,18 @@
+fn main() {
+    let a = getInt() as u32; let b = getInt() as u32;
+    printlnInt((a + b) as i32);
+    printlnInt((a - b) as i32);
+    printlnInt((a * b) as i32);
+    printlnInt((a / b) as i32);
+    printlnInt((a % b) as i32);
+    printlnInt((a & b) as i32);
+    printlnInt((a | b) as i32);
+    printlnInt((a ^ b) as i32);
+    printlnInt((!a) as i32);
+    printlnInt((a < b) as i32);
+    printlnInt((a <= b) as i32);
+    printlnInt((a > b) as i32);
+    printlnInt((a >= b) as i32);
+    printlnInt((a == b) as i32);
+    printlnInt((a != b) as i32);
+}

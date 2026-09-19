@@ -1,0 +1,1 @@
+#[derive(Copy)] struct S { x: i32 } fn main() {}

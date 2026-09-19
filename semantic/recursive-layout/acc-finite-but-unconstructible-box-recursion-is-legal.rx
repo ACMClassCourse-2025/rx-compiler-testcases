@@ -1,0 +1,1 @@
+struct Chain { next: Box<Chain> } fn main() {}

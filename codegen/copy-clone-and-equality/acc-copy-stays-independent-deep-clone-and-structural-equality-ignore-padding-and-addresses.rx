@@ -1,0 +1,17 @@
+#[derive(Clone)]
+#[derive(Copy, PartialEq, Eq,)]
+struct Pair { flag: bool, x: i32 }
+#[derive(Clone, PartialEq, Eq)]
+struct Owned { p: Box<Pair>, values: Vec<i32> }
+fn main() {
+    let a = Pair { flag: true, x: 4 }; let mut b = a; b.x = 9;
+    printlnInt(a.x); printlnInt((a != b) as i32);
+    let c = Pair::clone(&a); printlnInt((a == c) as i32);
+    let mut v = Vec::<i32>::new(); v.push(5); v.push(6);
+    let original = Owned { p: Box::<Pair>::new(a), values: v };
+    let mut cloned = original.clone(); printlnInt((original == cloned) as i32);
+    cloned.p.x = 20; cloned.values[0] = 99;
+    printlnInt(original.p.x); printlnInt(original.values[0]);
+    printlnInt((original != cloned) as i32);
+    printlnInt(([a, c] == [c, a]) as i32);
+}

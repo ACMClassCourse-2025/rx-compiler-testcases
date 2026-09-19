@@ -1,0 +1,8 @@
+fn read(x: &i32) -> i32 { *x }
+fn write(x: &mut i32) { *x += 5; }
+fn main() {
+    let mut b = Box::<Box<i32>>::new(Box::<i32>::new(7));
+    printlnInt(read(&b)); write(&mut b); printlnInt(read(&b));
+    let r: &i32 = &b; printlnInt(*r);
+    let mut x = 3; let p = &mut x; printlnInt(read(p)); write(p); printlnInt(*p);
+}

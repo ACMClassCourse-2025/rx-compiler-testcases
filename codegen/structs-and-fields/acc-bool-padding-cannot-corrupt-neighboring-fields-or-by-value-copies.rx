@@ -1,0 +1,10 @@
+#[derive(Clone, Copy)]
+struct S { small: bool, x: i32, tail: bool, y: [i32; 2] }
+fn mark(x: i32) -> i32 { printlnInt(x); x }
+fn change(mut s: S) -> S { s.x = 99; s.y[1] = 77; s }
+fn main() {
+    let s = S { y: [mark(1), mark(2)], tail: true, x: mark(3), small: false };
+    let mut t = change(s); printlnInt(s.x); printlnInt(s.y[1]);
+    printlnInt(t.x); printlnInt(t.y[1]); t = s; printlnInt(t.x);
+    printlnInt(t.tail as i32); printlnInt(t.small as i32);
+}

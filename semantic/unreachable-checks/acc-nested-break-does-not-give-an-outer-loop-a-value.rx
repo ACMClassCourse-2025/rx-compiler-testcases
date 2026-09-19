@@ -1,0 +1,1 @@
+fn forever() -> i32 { loop { loop { break; } } } fn main() {}

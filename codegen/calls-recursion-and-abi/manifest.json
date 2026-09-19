@@ -1,0 +1,14 @@
+[
+  {
+    "source": "acc-external-i-o-calls-and-internal-calling-conventions-preserve-live-state.rx",
+    "stage": "codegen",
+    "compilation_success": true,
+    "description": "External I/O calls and internal calling conventions preserve live state.",
+    "io": [
+      {
+        "input": "acc-external-i-o-calls-and-internal-calling-conventions-preserve-live-state.default.in",
+        "output": "acc-external-i-o-calls-and-internal-calling-conventions-preserve-live-state.default.out"
+      }
+    ]
+  }
+]

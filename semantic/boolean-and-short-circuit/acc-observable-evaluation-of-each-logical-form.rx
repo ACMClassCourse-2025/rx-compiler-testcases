@@ -1,0 +1,11 @@
+fn mark(n: i32, v: bool) -> bool { printlnInt(n); v }
+fn main() {
+    printlnInt((mark(1, false) && mark(2, true)) as i32);
+    printlnInt((mark(3, true) || mark(4, false)) as i32);
+    printlnInt((mark(5, true) && mark(6, true)) as i32);
+    printlnInt((mark(7, false) || mark(8, true)) as i32);
+    printlnInt((mark(9, false) & mark(10, true)) as i32);
+    printlnInt((mark(11, true) | mark(12, false)) as i32);
+    printlnInt((true ^ false) as i32); printlnInt((!true) as i32);
+    printlnInt((false < true) as i32); printlnInt((true >= false) as i32);
+}

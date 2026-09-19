@@ -1,0 +1,1 @@
+#[derive(Clone)] struct S<'a> { x: &'a mut i32 } fn main() {}

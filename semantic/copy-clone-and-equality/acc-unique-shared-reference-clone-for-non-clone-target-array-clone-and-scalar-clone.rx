@@ -1,0 +1,7 @@
+struct Opaque { x: i32 }
+fn main() {
+    let x = Opaque { x: 8 }; let r = &x; let copied = r.clone();
+    printlnInt(copied.x); printlnInt(r.x);
+    let a = [1, 2, 3]; let mut b = a.clone(); b[1] = 9;
+    printlnInt(a[1]); printlnInt(b[1]); printlnInt(5i32.clone());
+}

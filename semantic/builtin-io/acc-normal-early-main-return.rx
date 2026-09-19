@@ -1,0 +1,1 @@
+fn unit_result() -> () { () } fn main() -> () { unit_result(); printlnInt(1); return (); printlnInt(99); }

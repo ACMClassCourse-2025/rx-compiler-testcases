@@ -1,0 +1,13 @@
+struct S { x: u32 }
+fn f(x: u32) -> u32 { x }
+fn tail() -> usize { { (17) } }
+fn ret() -> isize { return 19; }
+fn main() {
+    let mut x: u32 = if true { { 3 } } else { 4 };
+    x = (5); let a: [u32; 2] = [6, 7]; let b: [u32; 2] = [8; 2];
+    let v: u32 = loop { break { 9 }; };
+    let s = S { x: 10 }; let p = Box::<u32>::new(11);
+    printlnInt(x as i32); printlnInt(a[1] as i32); printlnInt(b[0] as i32);
+    printlnInt(v as i32); printlnInt(s.x as i32); printlnInt(*p as i32);
+    printlnInt(f(12) as i32); printlnInt(tail() as i32); printlnInt(ret() as i32);
+}

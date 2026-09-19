@@ -1,0 +1,3 @@
+fn main() {
+    let a = getInt() as usize; let b = getInt(); printlnInt((a << b) as i32); printlnInt((a >> b) as i32);
+}

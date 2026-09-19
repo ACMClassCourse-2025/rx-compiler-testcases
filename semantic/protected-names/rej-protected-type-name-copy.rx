@@ -1,0 +1,1 @@
+struct Copy { field: i32 } fn main() {}

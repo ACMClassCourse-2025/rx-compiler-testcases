@@ -1,0 +1,3 @@
+fn main() {
+    let a = getInt(); let b = getInt(); let c = getInt(); printInt(a); printInt(b); printlnInt(c);
+}

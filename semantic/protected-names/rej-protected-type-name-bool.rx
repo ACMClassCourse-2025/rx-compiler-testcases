@@ -1,0 +1,1 @@
+struct bool { field: i32 } fn main() {}

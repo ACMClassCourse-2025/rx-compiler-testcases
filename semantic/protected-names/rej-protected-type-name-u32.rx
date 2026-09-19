@@ -1,0 +1,1 @@
+struct u32 { field: i32 } fn main() {}

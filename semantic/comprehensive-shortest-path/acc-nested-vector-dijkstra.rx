@@ -1,0 +1,22 @@
+struct Edge { to: usize, weight: i32 }
+struct Graph { edges: Vec<Vec<Edge>> }
+fn main() {
+    let n = getInt() as usize; let m = getInt() as usize;
+    let mut graph = Graph { edges: Vec::<Vec<Edge>>::new() };
+    let mut distance = Vec::<i32>::new(); let mut used = Vec::<bool>::new(); let mut i = 0usize;
+    while i < n { graph.edges.push(Vec::<Edge>::new()); distance.push(1000000); used.push(false); i += 1usize; }
+    i = 0usize;
+    while i < m { let from = getInt() as usize; let to = getInt() as usize; let w = getInt(); graph.edges[from].push(Edge { to: to, weight: w }); i += 1usize; }
+    distance[0] = 0;
+    loop {
+        let mut best = n; i = 0usize;
+        while i < n { if !used[i] && (best == n || distance[i] < distance[best]) { best = i; } i += 1usize; }
+        if best == n || distance[best] == 1000000 { break; }
+        used[best] = true; let mut j = 0usize;
+        while j < graph.edges[best].len() {
+            let e = &graph.edges[best][j]; let candidate = distance[best] + e.weight;
+            if candidate < distance[e.to] { distance[e.to] = candidate; } j += 1usize;
+        }
+    }
+    i = 0usize; while i < n { printlnInt(distance[i]); i += 1usize; }
+}

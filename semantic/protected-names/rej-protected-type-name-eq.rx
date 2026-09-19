@@ -1,0 +1,1 @@
+struct Eq { field: i32 } fn main() {}

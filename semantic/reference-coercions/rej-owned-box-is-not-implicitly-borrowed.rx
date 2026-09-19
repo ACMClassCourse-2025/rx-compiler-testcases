@@ -1,0 +1,1 @@
+fn f(x: &i32) {} fn main() { let b = Box::<i32>::new(1); f(b); }

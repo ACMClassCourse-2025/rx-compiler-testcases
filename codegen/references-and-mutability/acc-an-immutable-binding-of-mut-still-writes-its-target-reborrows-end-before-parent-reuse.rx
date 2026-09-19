@@ -1,0 +1,14 @@
+struct Pair { x: i32, y: i32 }
+fn inc(x: &mut i32) { *x += 1; }
+fn read(a: &i32, b: &i32) -> i32 { *a + *b }
+fn main() {
+    let mut value = 10; let p = &mut value;
+    { let q: &mut i32 = p; inc(q); }
+    inc(p); *p += 3; printlnInt(*p);
+    printlnInt(read(&value, &value));
+    let mut s = Pair { x: 4, y: 7 };
+    let a = &mut s.x; let b = &mut s.y; *a += *b; *b += 2;
+    printlnInt(s.x); printlnInt(s.y);
+    let nested = &&s.x; printlnInt(**nested);
+    let temporary = &mut 20; *temporary += 1; printlnInt(*temporary);
+}

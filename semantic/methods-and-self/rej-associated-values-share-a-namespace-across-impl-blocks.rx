@@ -1,0 +1,1 @@
+struct S { x: i32 } impl S { fn f(&self) {} } impl S { const f: i32 = 1; } fn main() {}

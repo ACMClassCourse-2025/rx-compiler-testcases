@@ -1,0 +1,1 @@
+struct Same { x: i32 } fn Same() -> i32 { 1 } fn main() { let s = Same { x: Same() }; }
