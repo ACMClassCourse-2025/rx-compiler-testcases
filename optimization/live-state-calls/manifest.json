@@ -6,8 +6,8 @@
     "description": "Thirty-two runtime scalar arguments remain live across recursive calls and wrapping reductions.",
     "io": [
       {
-        "input": "acc-recursive-calls-preserve-32-runtime-values.smoke.in",
-        "output": "acc-recursive-calls-preserve-32-runtime-values.smoke.out"
+        "input": "acc-recursive-calls-preserve-32-runtime-values.small.in",
+        "output": "acc-recursive-calls-preserve-32-runtime-values.small.out"
       },
       {
         "input": "acc-recursive-calls-preserve-32-runtime-values.large.in",
