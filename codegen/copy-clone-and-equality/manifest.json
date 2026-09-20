@@ -22,5 +22,17 @@
         "output": "acc-unique-shared-reference-clone-for-non-clone-target-array-clone-and-scalar-clone.default.out"
       }
     ]
+  },
+  {
+    "source": "acc-container-dot-clone-precedes-dereference-and-keeps-storage-independent.rx",
+    "stage": "codegen",
+    "compilation_success": true,
+    "description": "Dot clone selects Box and Vec before dereferencing, including shared receivers and deep nested storage.",
+    "io": [
+      {
+        "input": null,
+        "output": "acc-container-dot-clone-precedes-dereference-and-keeps-storage-independent.default.out"
+      }
+    ]
   }
 ]

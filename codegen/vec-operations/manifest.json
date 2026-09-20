@@ -15,7 +15,7 @@
     "source": "acc-vec-apis-do-not-require-clone-or-copy-emptying-and-refilling-stays-valid.rx",
     "stage": "codegen",
     "compilation_success": true,
-    "description": "Vec APIs do not require Clone or Copy; emptying and refilling stays valid.",
+    "description": "Vec APIs require no Clone or Copy; is_empty tracks construction, partial removal, emptying and refill.",
     "io": [
       {
         "input": "acc-vec-apis-do-not-require-clone-or-copy-emptying-and-refilling-stays-valid.default.in",

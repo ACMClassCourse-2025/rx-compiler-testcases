@@ -64,5 +64,11 @@
     "stage": "semantic",
     "compilation_success": false,
     "description": "Every field must support the requested derive."
+  },
+  {
+    "source": "acc-container-dot-clone-precedes-dereference-and-keeps-storage-independent.rx",
+    "stage": "semantic",
+    "compilation_success": true,
+    "description": "Dot clone selects Box and Vec before dereferencing, including shared receivers and deep nested storage."
   }
 ]
