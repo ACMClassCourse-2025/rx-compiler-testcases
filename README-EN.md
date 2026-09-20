@@ -1,6 +1,6 @@
 # Rx compiler test cases
 
-[English](README.md.en) | [简体中文](README.md)
+[English](README-EN.md) | [简体中文](README-ZH.md)
 
 Welcome to the Rx Compiler course! This repository contains the test cases for the Rx compiler course. The files are organized by the compiler stage or kind of workload they exercise. A test runner discovers test cases from `manifest.json` files.
 
