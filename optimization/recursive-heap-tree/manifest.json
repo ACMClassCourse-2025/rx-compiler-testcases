@@ -6,8 +6,8 @@
     "description": "Deep cloning and repeated recursive mutation of a finite binary tree with nested owned containers.",
     "io": [
       {
-        "input": "acc-recursive-heap-tree.smoke.in",
-        "output": "acc-recursive-heap-tree.smoke.out"
+        "input": "acc-recursive-heap-tree.small.in",
+        "output": "acc-recursive-heap-tree.small.out"
       },
       {
         "input": "acc-recursive-heap-tree.large.in",

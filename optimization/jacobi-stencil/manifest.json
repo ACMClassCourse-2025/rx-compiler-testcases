@@ -6,8 +6,8 @@
     "description": "Repeated integer five-point stencil with alternating owned buffers and unchanged boundaries.",
     "io": [
       {
-        "input": "acc-jacobi-stencil.smoke.in",
-        "output": "acc-jacobi-stencil.smoke.out"
+        "input": "acc-jacobi-stencil.small.in",
+        "output": "acc-jacobi-stencil.small.out"
       },
       {
         "input": "acc-jacobi-stencil.large.in",

@@ -6,8 +6,8 @@
     "description": "Repeated breadth-first searches over an irregular graph with reusable queues and visited state.",
     "io": [
       {
-        "input": "acc-graph-bfs.smoke.in",
-        "output": "acc-graph-bfs.smoke.out"
+        "input": "acc-graph-bfs.small.in",
+        "output": "acc-graph-bfs.small.out"
       },
       {
         "input": "acc-graph-bfs.large.in",

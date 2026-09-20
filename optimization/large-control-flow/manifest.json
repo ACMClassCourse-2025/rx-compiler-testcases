@@ -6,8 +6,8 @@
     "description": "A generated 96-function program with 1,152 data-dependent branch diamonds and a live state chain.",
     "io": [
       {
-        "input": "acc-large-control-flow.smoke.in",
-        "output": "acc-large-control-flow.smoke.out"
+        "input": "acc-large-control-flow.small.in",
+        "output": "acc-large-control-flow.small.out"
       },
       {
         "input": "acc-large-control-flow.large.in",

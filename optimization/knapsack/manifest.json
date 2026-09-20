@@ -6,8 +6,8 @@
     "description": "Zero-one knapsack dynamic programming with descending updates and loop-carried dependencies.",
     "io": [
       {
-        "input": "acc-knapsack.smoke.in",
-        "output": "acc-knapsack.smoke.out"
+        "input": "acc-knapsack.small.in",
+        "output": "acc-knapsack.small.out"
       },
       {
         "input": "acc-knapsack.large.in",

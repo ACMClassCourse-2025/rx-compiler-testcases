@@ -6,8 +6,8 @@
     "description": "Dependent integer mixing chains combine calls, wrapping multiplication, rotates and conditional updates.",
     "io": [
       {
-        "input": "acc-integer-mixing.smoke.in",
-        "output": "acc-integer-mixing.smoke.out"
+        "input": "acc-integer-mixing.small.in",
+        "output": "acc-integer-mixing.small.out"
       },
       {
         "input": "acc-integer-mixing.large.in",

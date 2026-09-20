@@ -6,8 +6,8 @@
     "description": "Boolean heap layout, strided stores and integer induction in the sieve of Eratosthenes.",
     "io": [
       {
-        "input": "acc-prime-sieve.smoke.in",
-        "output": "acc-prime-sieve.smoke.out"
+        "input": "acc-prime-sieve.small.in",
+        "output": "acc-prime-sieve.small.out"
       },
       {
         "input": "acc-prime-sieve.large.in",

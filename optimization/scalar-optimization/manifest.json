@@ -6,8 +6,8 @@
     "description": "Aggregate scalar replacement, inlining, redundant expressions, dead computations and invariant arithmetic.",
     "io": [
       {
-        "input": "acc-scalar-optimization.smoke.in",
-        "output": "acc-scalar-optimization.smoke.out"
+        "input": "acc-scalar-optimization.small.in",
+        "output": "acc-scalar-optimization.small.out"
       },
       {
         "input": "acc-scalar-optimization.large.in",
